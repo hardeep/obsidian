@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/AI Research Assistant/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/AI Research Assistant/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/AI Research Assistant/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/AI Research Assistant/README.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,10 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a4d56265363c163",
+  "active": "c06083fe03844374",
   "lastOpenFiles": [
+    "Work/ICBC.md",
     "README.md",
+    "Work",
     "Projects/AI Research Assistant/README.md",
+    "Untitled.canvas",
+    "Journal",
     "Projects/AI Research Assistant",
     "Projects"
   ]
