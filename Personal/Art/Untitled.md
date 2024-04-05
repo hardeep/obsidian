@@ -1,0 +1,2 @@
+https://www.paper-republic.com/products/grand-voyageur-leather-journal?variant=46708729053525
+https://www.paper-republic.com/collections/refills-pocket/products/drawing-book?_pos=3&_fid=6efa4d744&_ss=c&variant=41267980533892

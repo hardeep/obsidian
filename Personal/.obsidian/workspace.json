@@ -13,9 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Projects/Chair Project/HAVSTEN.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "40d27e5d4a17a53e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c5a7a582d26da91",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Projects/Chair Project/Havsten.png"
               }
             }
           }
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Projects/Chair Project/HAVSTEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Projects/Chair Project/HAVSTEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Projects/Chair Project/HAVSTEN.md"
               }
             }
           }
@@ -147,10 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c06083fe03844374",
+  "active": "8a4d56265363c163",
   "lastOpenFiles": [
-    "Work/ICBC.md",
+    "Projects/Chair Project/Havsten.png",
     "README.md",
+    "Projects/Chair Project/HAVSTEN.md",
+    "Art/Untitled.md",
+    "Projects/Chair Project",
+    "Art",
+    "Work/ICBC.md",
     "Work",
     "Projects/AI Research Assistant/README.md",
     "Untitled.canvas",
