@@ -11,8 +11,12 @@
             "id": "1388be9dddd76219",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Art/Water Colouring.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Art/Water Colouring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Art/Water Colouring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Productivity/NeoVim/Config.md"
+                "file": "Personal/Art/Water Colouring.md"
               }
             }
           }
@@ -139,18 +145,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcc8aa258e885efd",
+  "active": "1388be9dddd76219",
   "lastOpenFiles": [
-    "Personal/Projects/Chair Project/Havsten.png",
     "Personal/Projects/Chair Project/HAVSTEN.md",
+    "Personal/Art/Water Colouring.md",
+    "Projects/Productivity/NeoVim/Config.md",
+    "Personal/Projects/Chair Project/Havsten.png",
     "Personal/Projects/Chair Project",
-    "Personal/Art/Untitled.md",
     "Personal/README.md",
     "Personal/Projects",
     "Personal/Art",
     "Personal",
     "Projects/Software/AI Research Assistant/README.md",
-    "Projects/Productivity/NeoVim/Config.md",
     "Learnings/Readings List.md",
     "Projects/Productivity/NeoVim",
     "Projects/Productivity",
