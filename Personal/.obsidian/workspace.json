@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learnings/Readings List.md",
+                "file": "Learnings/Software/User Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learnings/Readings List.md",
+                "file": "Learnings/Software/User Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learnings/Readings List.md",
+                "file": "Learnings/Software/User Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learnings/Readings List.md"
+                "file": "Learnings/Software/User Management.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "598e5db6e86f058e",
   "lastOpenFiles": [
+    "Learnings/Readings List.md",
+    "Learnings/Software/User Management.md",
+    "Learnings/Software",
     "Projects/Software/AI Research Assistant/Sub Projects/AI Investor Research Team/Jobs To Be Done.md",
     "Projects/Software/AI Research Assistant/Sub Projects/AI Investor Research Team",
     "Projects/Software/AI Research Assistant/Sub Projects",
@@ -156,7 +159,6 @@
     "Projects/Software/AI Research Assistant",
     "Projects/Software",
     "Learnings/Business/Jobs to Be Done.md",
-    "Learnings/Readings List.md",
     "Learnings/Business",
     "Learnings"
   ]
