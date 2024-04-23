@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream:.obsidian/workspace.json
         "id": "51445819f679f6f6",
         "type": "tabs",
         "children": [
           {
             "id": "1388be9dddd76219",
-=======
-        "id": "19ca25aa61000515",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d50c90ecb92d48c1",
->>>>>>> Stashed changes:Personal/.obsidian/workspace.json
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream:.obsidian/workspace.json
-                "file": "Personal/Art/Water Colouring.md",
-=======
-                "file": "README.md",
->>>>>>> Stashed changes:Personal/.obsidian/workspace.json
+                "file": "Daily/2024-04-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,11 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream:.obsidian/workspace.json
-                "file": "Personal/Art/Water Colouring.md",
-=======
-                "file": "README.md",
->>>>>>> Stashed changes:Personal/.obsidian/workspace.json
+                "file": "Daily/2024-04-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,11 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream:.obsidian/workspace.json
-                "file": "Personal/Art/Water Colouring.md",
-=======
-                "file": "README.md",
->>>>>>> Stashed changes:Personal/.obsidian/workspace.json
+                "file": "Daily/2024-04-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,11 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream:.obsidian/workspace.json
-                "file": "Personal/Art/Water Colouring.md"
-=======
-                "file": "README.md"
->>>>>>> Stashed changes:Personal/.obsidian/workspace.json
+                "file": "Daily/2024-04-19.md"
               }
             }
           }
@@ -169,31 +145,43 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream:.obsidian/workspace.json
-  "active": "1388be9dddd76219",
-=======
-  "active": "d50c90ecb92d48c1",
->>>>>>> Stashed changes:Personal/.obsidian/workspace.json
+  "active": "dcc8aa258e885efd",
   "lastOpenFiles": [
-    "Personal/Projects/Chair Project/HAVSTEN.md",
+    "Personal/Projects/Software/AI Research Assistant/README.md",
+    "Personal/Toronto List.md",
+    "Personal/Learnings/Software/Isolation Testing Postgres.md",
+    "Personal/Learnings/Business/Lean Analytics.md",
+    "Daily/2024-04-19.md",
+    "Daily/2024-04-18.md",
+    "Daily/2024-04-14.md",
     "Personal/Art/Water Colouring.md",
-    "Projects/Productivity/NeoVim/Config.md",
-    "Personal/Projects/Chair Project/Havsten.png",
-    "Personal/Projects/Chair Project",
-    "Personal/README.md",
-    "Personal/Projects",
-    "Personal/Art",
-    "Personal",
-    "Projects/Software/AI Research Assistant/README.md",
-    "Learnings/Readings List.md",
-    "Projects/Productivity/NeoVim",
-    "Projects/Productivity",
-    "Projects/Software",
-    "Learnings/Business/Jobs to Be Done.md",
-    "Daily",
+    "Personal/Projects/Software/AI Research Assistant/Sub Projects/AI Investor Research Team/Jobs To Be Done.md",
+    "Personal/Projects/Software/AI Research Assistant/Sub Projects/AI Investor Research Team",
+    "Personal/Projects/Software/AI Research Assistant/Sub Projects",
+    "Personal/Projects/Software/AI Research Assistant/Building a Company Dossier.md",
+    "Personal/Projects/Software/AI Research Assistant",
+    "Personal/Projects/Software",
+    "Personal/Learnings/Software/User Management.md",
+    "Personal/Learnings/Software/Remix.md",
+    "Personal/Learnings/Business/Jobs to Be Done.md",
+    "Personal/Learnings/Software",
+    "Personal/Learnings/Readings List.md",
+    "Personal/Learnings/Business",
+    "Personal/Learnings",
     "Projects/Software/AI Research Assistant/Sub Projects/AI Investor Research Team/Jobs To Be Done.md",
     "Projects/Software/AI Research Assistant/Sub Projects/AI Investor Research Team",
     "Projects/Software/AI Research Assistant/Sub Projects",
-    "Projects/Software/AI Research Assistant/Building a Company Dossier.md"
+    "Projects/Software/AI Research Assistant/README.md",
+    "Projects/Software/AI Research Assistant/Building a Company Dossier.md",
+    "Projects/Software/AI Research Assistant",
+    "Personal/Projects/Chair Project/HAVSTEN.md",
+    "Projects/Productivity/NeoVim/Config.md",
+    "Personal/Projects/Chair Project/Havsten.png",
+    "Personal/README.md",
+    "Projects/Software/Research Assistant/README.md",
+    "Learnings/Readings List.md",
+    "Learnings/Business/Jobs to Be Done.md",
+    "Projects/Software/Research Assistant/Sub Projects/AI Investor Research Team/Jobs To Be Done.md",
+    "Projects/Software/Research Assistant/Building a Company Dossier.md"
   ]
 }
