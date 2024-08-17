@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "Learnings/Design/Data Visualizations/1 Dimensional Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3ae7ec8ea83ff22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wii Emulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-04-19.md",
+            "file": "Wii Emulation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-04-19.md",
+            "file": "Wii Emulation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-04-19.md"
+            "file": "Wii Emulation.md"
           }
         }
       }
@@ -156,8 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94f7344b3f116b6e",
+  "active": "d3ae7ec8ea83ff22",
   "lastOpenFiles": [
+    "Learnings/Design/Data Visualizations/1 Dimensional Data.md",
+    "Wii Emulation.md",
+    "Videos Games/Steam Deck",
+    "Videos Games",
+    "2024-05-24.md",
+    "Learnings/Design/Data Visualizations",
+    "Learnings/Design",
     "Learnings/Software/Isolation Testing Postgres.md",
     "2024-04-19.md",
     "2024-04-18.md",
