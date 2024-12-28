@@ -1,0 +1,1 @@
+Publish your notes run the command “Obsidian Git: Create backup” by opening the command palette (CMD/Ctrl + P)
