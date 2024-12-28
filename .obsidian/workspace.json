@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Personal/Lists/Gift Ideas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Gift Ideas"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Personal/Lists/Gift Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Gift Ideas"
             }
           },
           {
@@ -163,10 +163,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1388be9dddd76219",
+  "active": "4a0ed468711ca0d4",
   "lastOpenFiles": [
-    "Personal/Projects/Chair Project/HAVSTEN.md",
     "README.md",
+    "Personal/Lists/Gift Ideas.md",
+    "Personal/Projects/Chair Project/HAVSTEN.md",
     "Personal/Gaming/Wii Emulation.md",
     "Personal/README.md",
     "Personal/Gaming",
@@ -202,7 +203,6 @@
     "Personal/Learnings/Readings List.md",
     "Projects/Software/AI Research Assistant/Sub Projects/AI Investor Research Team/Jobs To Be Done.md",
     "Projects/Software/AI Research Assistant/README.md",
-    "Projects/Software/AI Research Assistant/Building a Company Dossier.md",
     "Personal/Projects/Chair Project/Attachments/Havsten.png"
   ]
 }
