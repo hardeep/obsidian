@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c4525c89ca14ac50",
+        "id": "3fdf7fb148fd445d",
         "type": "tabs",
         "children": [
           {
-            "id": "491f030e41ddd775",
+            "id": "a1d0eb2e96eddb7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learnings/Business/Lean Analytics.md",
+                "file": "Planning/2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lean Analytics"
-            }
-          },
-          {
-            "id": "94f7344b3f116b6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learnings/Design/Data Visualizations/1 Dimensional Data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 Dimensional Data"
-            }
-          },
-          {
-            "id": "d3ae7ec8ea83ff22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Local LLM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local LLM"
-            }
-          },
-          {
-            "id": "4aa1e936404fa36e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learnings/Business/Lean Analytics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lean Analytics"
+              "title": "2025"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,29 +147,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3ae7ec8ea83ff22",
+  "active": "a1d0eb2e96eddb7d",
   "lastOpenFiles": [
-    "Gobi The Dinosaur.md",
+    "Learnings/Business/Lean Analytics.md",
+    "Learnings/Design/Data Visualizations/1 Dimensional Data.md",
     "Local LLM.md",
+    "Projects/Chair Project/Attachments",
+    "Gaming",
+    "Memories",
+    "Memories/Attachments/IMG_9166.webp",
+    "Memories/Attachments/IMG_9167.jpeg",
+    "Memories/Attachments",
+    "Gaming/Wii Emulation.md",
+    "Lists/Gift Ideas.md",
+    "Lists/Toronto List.md",
+    "Lists",
+    "Projects/Chair Project/Attachments/Havsten.png",
+    "Projects/Software/AI/AI Research Assistant/Sub Projects/AI Investor Research Team/Jobs To Be Done.md",
+    "Projects/Software/AI/AI Research Assistant/Sub Projects/AI Investor Research Team",
+    "Projects/Software/AI/AI Research Assistant/Building a Company Dossier.md",
+    "Projects/Software/AI/AI Research Assistant/README.md",
+    "Projects/Software/AI/AI Research Assistant/Sub Projects",
+    "Projects/Software/AI/AI Research Assistant",
+    "Projects/Software/AI",
+    "Projects/Software/AI/Local LLM.md",
+    "Memories/Gobi The Dinosaur.md",
+    "Planning/2025.md",
+    "Planning",
+    "Gobi The Dinosaur.md",
     "IMG_9167.jpeg",
     "IMG_9166.webp",
     "Hardware Hacking/LG Bluray WH16NS40.md",
     "README.md",
     "Wii Emulation.md",
-    "Hardware Hacking",
-    "Learnings/Design/Data Visualizations/1 Dimensional Data.md",
-    "Videos Games/Steam Deck",
-    "Videos Games",
     "2024-05-24.md",
-    "Learnings/Design/Data Visualizations",
-    "Learnings/Design",
     "Learnings/Software/Isolation Testing Postgres.md",
     "2024-04-19.md",
     "2024-04-18.md",
     "Toronto List.md",
-    "Learnings/Business/Lean Analytics.md",
     "2024-04-14.md",
-    "Learnings/Software/Remix.md",
-    "Untitled"
+    "Learnings/Software/Remix.md"
   ]
 }
