@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Planning/2025.md",
+                "file": "Daily/2024-12-30.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "2024-12-30"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Planning/2025.md",
+                "file": "Daily/2024-12-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025"
+              "title": "Backlinks for 2024-12-30"
             }
           },
           {
@@ -165,8 +165,9 @@
   },
   "active": "1388be9dddd76219",
   "lastOpenFiles": [
-    "Daily/2024-12-28.md",
     "Personal/Planning/2025.md",
+    "Daily/2024-12-30.md",
+    "Daily/2024-12-28.md",
     "Personal/Planning",
     "Daily/2024-05-24.md",
     "Daily/2024-04-19.md",
@@ -202,7 +203,6 @@
     "Personal/Projects/Software/AI/AI Research Assistant/Building a Company Dossier.md",
     "Personal/Learnings/Software/User Management.md",
     "Personal/Learnings/Software/Remix.md",
-    "Personal/Learnings/Business/Jobs to Be Done.md",
     "Personal/Projects/Chair Project/Attachments/Havsten.png"
   ]
 }
