@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "531bb14ca150970a",
+    "id": "a1d5a16e033954d6",
     "type": "split",
     "children": [
       {
-        "id": "3fdf7fb148fd445d",
+        "id": "603f2d629b721312",
         "type": "tabs",
         "children": [
           {
-            "id": "a1d0eb2e96eddb7d",
+            "id": "ea9864f7992bbe3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/2025.md",
+                "file": "2024-12-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "2024-12-30"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "422a4c82a8db5e1e",
+    "id": "973dcf5652f8b936",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9dbf9ff8c6d16206",
+        "id": "4ac788a720d427a5",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -43,7 +43,7 @@
         }
       },
       {
-        "id": "e23e3f682031bbd5",
+        "id": "2b0bb47039d4b190",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -60,7 +60,7 @@
         }
       },
       {
-        "id": "5e47287e90d55fb7",
+        "id": "4b168c618e137044",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -73,7 +73,7 @@
         }
       },
       {
-        "id": "92fc56590c4ae3fd",
+        "id": "bec6acd8d41bd854",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -86,16 +86,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "e033747ba1456116",
+    "id": "536e1ed28587f316",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "84b3c685866e9078",
+        "id": "4a63b06edee7a2a4",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gobi The Dinosaur.md",
+            "file": "2024-12-30.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,12 +109,12 @@
         }
       },
       {
-        "id": "10f5ce3f0b96e5b4",
+        "id": "89c48cc0ba1fa416",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Gobi The Dinosaur.md",
+            "file": "2024-12-30.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -123,12 +123,12 @@
         }
       },
       {
-        "id": "de03ce154914e437",
+        "id": "7e54d2afc75c640d",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Gobi The Dinosaur.md"
+            "file": "2024-12-30.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -147,47 +147,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1d0eb2e96eddb7d",
-  "lastOpenFiles": [
-    "Daily",
-    "2025-01-05.md",
-    "Planning/2025.md",
-    "Learnings/Business/Lean Analytics.md",
-    "Learnings/Design/Data Visualizations/1 Dimensional Data.md",
-    "Local LLM.md",
-    "Projects/Chair Project/Attachments",
-    "Gaming",
-    "Memories",
-    "Memories/Attachments/IMG_9166.webp",
-    "Memories/Attachments/IMG_9167.jpeg",
-    "Memories/Attachments",
-    "Gaming/Wii Emulation.md",
-    "Lists/Gift Ideas.md",
-    "Lists/Toronto List.md",
-    "Lists",
-    "Projects/Chair Project/Attachments/Havsten.png",
-    "Projects/Software/AI/AI Research Assistant/Sub Projects/AI Investor Research Team/Jobs To Be Done.md",
-    "Projects/Software/AI/AI Research Assistant/Sub Projects/AI Investor Research Team",
-    "Projects/Software/AI/AI Research Assistant/Building a Company Dossier.md",
-    "Projects/Software/AI/AI Research Assistant/README.md",
-    "Projects/Software/AI/AI Research Assistant/Sub Projects",
-    "Projects/Software/AI/AI Research Assistant",
-    "Projects/Software/AI",
-    "Projects/Software/AI/Local LLM.md",
-    "Memories/Gobi The Dinosaur.md",
-    "Planning",
-    "Gobi The Dinosaur.md",
-    "IMG_9167.jpeg",
-    "IMG_9166.webp",
-    "Hardware Hacking/LG Bluray WH16NS40.md",
-    "README.md",
-    "Wii Emulation.md",
-    "2024-05-24.md",
-    "Learnings/Software/Isolation Testing Postgres.md",
-    "2024-04-19.md",
-    "2024-04-18.md",
-    "Toronto List.md",
-    "2024-04-14.md",
-    "Learnings/Software/Remix.md"
-  ]
+  "active": "ea9864f7992bbe3c",
+  "lastOpenFiles": []
 }
