@@ -1,7 +1,7 @@
 {
   "commitMessage": "Automatic backup via Hardeep's Mackbook Pro",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 10,
+  "autoSaveInterval": 1,
   "autoPushInterval": 0,
   "autoPullInterval": 1,
   "autoPullOnBoot": false,
