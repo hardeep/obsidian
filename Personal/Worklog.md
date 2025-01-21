@@ -8,6 +8,37 @@
 **Michael**
 - Pitch book for the sales team
 
+Australia
+
+🇦🇺UIC 2025 - Australian Medical Cannabis Symposium - 21-23rd Feb.🇦🇺
+
+We can't get a list of attendees sadly, but we can see the following from the website (as of today - more info might become available):
+
+People speaking from our ICP prospect list @Kat 
+- Nan-Maree Schoerie, Managing Director, ECS Botanics Holdings
+- Paul Long, Little Green Pharma
+- Dirk Beelen, Chief Commercial Officer, MedTEC Pharma
+
+Producers/other potential prospects speaking not on our ICP list: @Kat 
+- Michael Sassano, Founder & Interim CEO, SOMAÍ Pharmaceuticals
+- Bryan Ebstyne, CEO, Austranna
+- David Hermes, CEO, Alfie Therapeutics
+- Andrew Olley, Partner / Agronomist, Medicinal Harvest
+- There might be more, these were just a couple I could spot. 
+
+Customers speaking: @Jess 
+- Tasmanian Botanics 
+- ANTG
+
+Partners speaking: 
+- Atiyyah 
+- Angus, Cann Group - possible prospect too (cc @Sebastian) 
+
+Competitors speaking:
+- Cannavigia
+
+CC @hardeep @Michael
+
 **Questions for Tom to answer**
 
 - Does it successfully sync data across?
