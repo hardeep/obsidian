@@ -3,6 +3,7 @@
 
 **Jess**
 - make sure calendar is up to date
+- How far have we progressed with stripe?
 
 **Michael**
 - Pitch book for the sales team
