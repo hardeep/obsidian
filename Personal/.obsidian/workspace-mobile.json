@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025"
             }
+          },
+          {
+            "id": "954d49087bcf2abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,11 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1d0eb2e96eddb7d",
+  "active": "954d49087bcf2abc",
   "lastOpenFiles": [
+    "Planning/2025.md",
+    "Untitled.md",
+    "Work",
     "Daily",
     "2025-01-05.md",
-    "Planning/2025.md",
     "Learnings/Business/Lean Analytics.md",
     "Learnings/Design/Data Visualizations/1 Dimensional Data.md",
     "Local LLM.md",
@@ -172,10 +189,8 @@
     "Projects/Software/AI/AI Research Assistant/README.md",
     "Projects/Software/AI/AI Research Assistant/Sub Projects",
     "Projects/Software/AI/AI Research Assistant",
-    "Projects/Software/AI",
     "Projects/Software/AI/Local LLM.md",
     "Memories/Gobi The Dinosaur.md",
-    "Planning",
     "Gobi The Dinosaur.md",
     "IMG_9167.jpeg",
     "IMG_9166.webp",

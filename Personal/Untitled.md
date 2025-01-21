@@ -1,0 +1,3 @@
+- Ivan conflict with board meeting
+- Libby messaging
+- Focus on metrics for revenue team, make sure kat has numbers, why are dans meetings booked numbers so low? Anji isn't on the board. Jess should teach Elaine how to report into metronomics.
