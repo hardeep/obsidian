@@ -1,3 +1,8 @@
+
+**Workflow Efficiency**
+- Destruction. Choose a single date for a bunch of items
+- HC possibly loosening up destruction
+
 - Ivan conflict with board meeting
 - Focus on metrics for revenue team, make sure kat has numbers, why are dans meetings booked numbers so low? Anji isn't on the board. Jess should teach Elaine how to report into metronomics.
 
