@@ -8,7 +8,10 @@
 **Michael**
 - Pitch book for the sales team
 
-Australia
+**Libby**
+
+
+**Australia**
 
 🇦🇺UIC 2025 - Australian Medical Cannabis Symposium - 21-23rd Feb.🇦🇺
 
