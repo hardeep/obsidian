@@ -163,8 +163,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1388be9dddd76219",
+  "active": "dcc8aa258e885efd",
   "lastOpenFiles": [
+    "Personal/Worklog.md",
     "Personal/Planning/2025.md",
     "Daily/2024-12-30.md",
     "Daily/2025-01-05.md",
@@ -202,7 +203,6 @@
     "Personal/Projects/Software/AI/AI Research Assistant/Sub Projects/AI Investor Research Team",
     "Personal/Projects/Software/AI/AI Research Assistant/Sub Projects",
     "Personal/Projects/Software/AI/AI Research Assistant/Building a Company Dossier.md",
-    "Personal/Learnings/Software/User Management.md",
     "Personal/Projects/Chair Project/Attachments/Havsten.png"
   ]
 }
