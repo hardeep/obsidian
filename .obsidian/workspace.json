@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-12-30.md",
+                "file": "Personal/Lists/Reading.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-30"
+              "title": "Reading"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-12-30.md",
+                "file": "Personal/Lists/Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-12-30"
+              "title": "Backlinks for Reading"
             }
           },
           {
@@ -163,11 +163,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcc8aa258e885efd",
+  "active": "1388be9dddd76219",
   "lastOpenFiles": [
+    "Daily/2024-12-30.md",
+    "Personal/Lists/Reading.md",
     "Personal/Worklog.md",
     "Personal/Planning/2025.md",
-    "Daily/2024-12-30.md",
     "Daily/2025-01-05.md",
     "Daily/2024-12-28.md",
     "Personal/Planning",
@@ -202,7 +203,6 @@
     "Personal/Projects/Software/AI/AI Research Assistant/Sub Projects/AI Investor Research Team/Jobs To Be Done.md",
     "Personal/Projects/Software/AI/AI Research Assistant/Sub Projects/AI Investor Research Team",
     "Personal/Projects/Software/AI/AI Research Assistant/Sub Projects",
-    "Personal/Projects/Software/AI/AI Research Assistant/Building a Company Dossier.md",
     "Personal/Projects/Chair Project/Attachments/Havsten.png"
   ]
 }
