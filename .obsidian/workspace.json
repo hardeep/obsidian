@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Reading"
             }
+          },
+          {
+            "id": "31ef67518df8edea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Puro.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Puro"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Lists/Reading.md",
+                "file": "Puro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reading"
+              "title": "Backlinks for Puro"
             }
           },
           {
@@ -163,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1388be9dddd76219",
+  "active": "31ef67518df8edea",
   "lastOpenFiles": [
-    "Daily/2024-12-30.md",
     "Personal/Lists/Reading.md",
+    "Puro.md",
+    "Daily/2024-12-30.md",
     "Personal/Worklog.md",
     "Personal/Planning/2025.md",
     "Daily/2025-01-05.md",
@@ -200,7 +217,6 @@
     "Personal/Projects/Software/AI/AI Research Assistant/README.md",
     "Personal/Learnings/Software/Isolation Testing Postgres.md",
     "Personal/Learnings/Business/Lean Analytics.md",
-    "Personal/Projects/Software/AI/AI Research Assistant/Sub Projects/AI Investor Research Team/Jobs To Be Done.md",
     "Personal/Projects/Software/AI/AI Research Assistant/Sub Projects/AI Investor Research Team",
     "Personal/Projects/Software/AI/AI Research Assistant/Sub Projects",
     "Personal/Projects/Chair Project/Attachments/Havsten.png"
