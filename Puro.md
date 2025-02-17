@@ -12,7 +12,7 @@
 * Doesn't need Elevated Signals to talk to Xero
 * Know the dollar value at the time that it ships
 * Decrease the value of inventory over time.
-* If it doens't talk to Xero
+* If it dosn't talk to Xero
 	* Sales $ per month
 	* Cost of good sold per month
 * Stock adjustments
