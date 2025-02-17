@@ -12,4 +12,7 @@
 * Know the dollar value at the time that it ships
 * Decrease the value of inventory over time.
 * If it doens't talk to Xero
-	* Sales $ per 
+	* Sales $ per month
+	* Cost of good sold per month
+	* Stock adjustments
+		* Finished product destroyed that didn't sell
