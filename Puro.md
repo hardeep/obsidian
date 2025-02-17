@@ -8,4 +8,8 @@
 
 * Dollar value is associated with a product. COGS can be stored.
 * Sales invoice function (in cin7 and Xero)
-* Do
+* Doesn't need Elevated Signals to talk to Xero
+* Know the dollar value at the time that it ships
+* Decrease the value of inventory over time.
+* If it doens't talk to Xero
+	* Sales $ per 
