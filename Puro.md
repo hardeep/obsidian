@@ -5,3 +5,7 @@
 * Scanning (2nd half of the year)
 * Using a different type of printer (Wettaburn)
 * Doing transfers between companies
+
+* Dollar value is associated with a product. COGS can be stored.
+* Sales invoice function (in cin7 and Xero)
+* Do
