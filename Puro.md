@@ -19,4 +19,4 @@
 	* Finished product destroyed that didn't sell
 * Year end report
 	* Destruction of packaged product
-* Year end write-off function 
+* Year end write-off function
