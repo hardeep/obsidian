@@ -6,7 +6,11 @@
 * Using a different type of printer (Wettaburn)
 * Doing transfers between companies
 * Generating packing slips (who signed off on the product that's packed)
+ 
+Planning Feedback
+* Variance between plan and actual
 
+Costing Feedback
 * Dollar value is associated with a product. COGS can be stored.
 * Sales invoice function (in Cin7 and Xero)
 * Doesn't need Elevated Signals to talk to Xero
