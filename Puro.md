@@ -14,5 +14,8 @@
 * If it doens't talk to Xero
 	* Sales $ per month
 	* Cost of good sold per month
-	* Stock adjustments
-		* Finished product destroyed that didn't sell
+* Stock adjustments
+	* Finished product destroyed that didn't sell
+* Year end report
+	* Destruction of packaged product
+	* 
