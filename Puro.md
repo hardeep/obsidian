@@ -5,10 +5,10 @@
 * Scanning (2nd half of the year)
 * Using a different type of printer (Wettaburn)
 * Doing transfers between companies
-* Generating packing slips (who signed off on the product that's packed )
+* Generating packing slips (who signed off on the product that's packed)
 
 * Dollar value is associated with a product. COGS can be stored.
-* Sales invoice function (in cin7 and Xero)
+* Sales invoice function (in Cin7 and Xero)
 * Doesn't need Elevated Signals to talk to Xero
 * Know the dollar value at the time that it ships
 * Decrease the value of inventory over time.
