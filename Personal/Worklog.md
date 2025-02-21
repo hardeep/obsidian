@@ -60,3 +60,7 @@ CC @hardeep @Michael
 Odin makes cultivation systems. Connected me with 
 
 Nikita is working with early licenses
+
+Site visits per year
+Months to profitability
+Months to zero in bank
