@@ -56,3 +56,5 @@ CC @hardeep @Michael
 - Does it allow for quick re-syncing of the data?
 - When it re-syncs does it process through the rules quickly?
 - Does it allow you to pull out a report of sorts?
+
+Odin makes cultivation systems. Connected me with 
