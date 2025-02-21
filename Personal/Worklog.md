@@ -58,3 +58,5 @@ CC @hardeep @Michael
 - Does it allow you to pull out a report of sorts?
 
 Odin makes cultivation systems. Connected me with 
+
+Nikita is working with early licenses
