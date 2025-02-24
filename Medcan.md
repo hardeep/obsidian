@@ -1,1 +1,1 @@
-Using airtable for sales inventory (meta data captur)
+Using airtable for sales inventory (meta data captured)
