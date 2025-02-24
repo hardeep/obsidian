@@ -66,3 +66,7 @@ Months to profitability
 Months to zero in bank
 
 Kiran rqc intro to solarsea
+
+**Medcan**
+Batch number (automatic). Looking for batch records (lost). Manually creating 
+Not using us for sales. Scanning material out.
