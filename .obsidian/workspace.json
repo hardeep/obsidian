@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puro.md",
+                "file": "Daily/2024-12-30.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Puro"
+              "title": "2024-12-30"
+            }
+          },
+          {
+            "id": "a95ae648a7582e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medcan.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Medcan"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Puro.md",
+                "file": "Medcan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Puro"
+              "title": "Backlinks for Medcan"
             }
           },
           {
@@ -179,11 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31ef67518df8edea",
+  "active": "a95ae648a7582e48",
   "lastOpenFiles": [
-    "Personal/Lists/Reading.md",
-    "Puro.md",
     "Daily/2024-12-30.md",
+    "Medcan.md",
+    "Daily/2024-04-14.md",
+    "Puro.md",
+    "Personal/Lists/Reading.md",
     "Personal/Worklog.md",
     "Personal/Planning/2025.md",
     "Daily/2025-01-05.md",
@@ -192,7 +209,6 @@
     "Daily/2024-05-24.md",
     "Daily/2024-04-19.md",
     "Daily/2024-04-18.md",
-    "Daily/2024-04-14.md",
     "1.md",
     "Personal/Lists/Toronto List.md",
     "Personal/Lists/Gift Ideas.md",
@@ -216,7 +232,6 @@
     "Attachments",
     "Personal/Projects/Software/AI/AI Research Assistant/README.md",
     "Personal/Learnings/Software/Isolation Testing Postgres.md",
-    "Personal/Learnings/Business/Lean Analytics.md",
     "Personal/Projects/Software/AI/AI Research Assistant/Sub Projects/AI Investor Research Team",
     "Personal/Projects/Software/AI/AI Research Assistant/Sub Projects",
     "Personal/Projects/Chair Project/Attachments/Havsten.png"
