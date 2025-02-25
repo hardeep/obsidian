@@ -10,5 +10,4 @@ What feature flags are turned on?
 * Missing adjust columns, missing live reports
 The destruction feature flag is not turned on.
 Alex for reporting (green waste)
-Ed Perrera
-Andrew Cormak, Rebecca, 
+Andrew Cormak, Rebecca, Ed Perrera
