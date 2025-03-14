@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worklog.md",
+                "file": "Memories/Gobi The Dinosaur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Worklog"
+              "title": "Gobi The Dinosaur"
             }
           }
         ],
@@ -111,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gobi The Dinosaur.md",
+            "file": "Memories/Gobi The Dinosaur.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,11 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "954d49087bcf2abc",
+  "active": "84b3c685866e9078",
   "lastOpenFiles": [
+    "Worklog.md",
     "Lists/Reading.md",
     "Planning/2025.md",
-    "Worklog.md",
     "Work",
     "Daily",
     "2025-01-05.md",
