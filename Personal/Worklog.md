@@ -70,3 +70,8 @@ Kiran rqc intro to solarsea
 **Medcan**
 Batch number (automatic). Looking for batch records (lost). Manually creating 
 Not using us for sales. Scanning material out.
+
+
+Content marketing
+https://youtu.be/Ceu18_QPXT0?feature=shared
+

@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worklog.md",
+                "file": "2025-03-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Worklog"
+              "title": "2025-03-25"
+            }
+          },
+          {
+            "id": "da7bc1339fb97ff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learnings/Business/Building Product.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Building Product"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gobi The Dinosaur.md",
+            "file": "Hardware Hacking/LG Bluray WH16NS40.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,11 +177,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "954d49087bcf2abc",
+  "active": "da7bc1339fb97ff6",
   "lastOpenFiles": [
+    "2025-03-25.md",
+    "Learnings/Business/Building Product.md",
+    "Hardware Hacking/LG Bluray WH16NS40.md",
+    "Gaming/Wii Emulation.md",
+    "Art/Water Colouring.md",
+    "Memories/Attachments/IMG_9166.webp",
+    "Memories/Gobi The Dinosaur.md",
+    "Worklog.md",
     "Lists/Reading.md",
     "Planning/2025.md",
-    "Worklog.md",
     "Work",
     "Daily",
     "2025-01-05.md",
@@ -177,10 +198,8 @@
     "Projects/Chair Project/Attachments",
     "Gaming",
     "Memories",
-    "Memories/Attachments/IMG_9166.webp",
     "Memories/Attachments/IMG_9167.jpeg",
     "Memories/Attachments",
-    "Gaming/Wii Emulation.md",
     "Lists/Gift Ideas.md",
     "Lists/Toronto List.md",
     "Lists",
@@ -192,19 +211,14 @@
     "Projects/Software/AI/AI Research Assistant/Sub Projects",
     "Projects/Software/AI/AI Research Assistant",
     "Projects/Software/AI/Local LLM.md",
-    "Memories/Gobi The Dinosaur.md",
     "Gobi The Dinosaur.md",
     "IMG_9167.jpeg",
     "IMG_9166.webp",
-    "Hardware Hacking/LG Bluray WH16NS40.md",
     "README.md",
     "Wii Emulation.md",
     "2024-05-24.md",
     "Learnings/Software/Isolation Testing Postgres.md",
     "2024-04-19.md",
-    "2024-04-18.md",
-    "Toronto List.md",
-    "2024-04-14.md",
-    "Learnings/Software/Remix.md"
+    "2024-04-18.md"
   ]
 }
