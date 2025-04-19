@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learnings/Business/Building Product.md",
+                "file": "Learnings/Marketing/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Building Product"
+              "title": "Untitled"
             }
           }
         ],
@@ -125,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hardware Hacking/LG Bluray WH16NS40.md",
+            "file": "Learnings/Marketing/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,14 +158,17 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Gobi The Dinosaur.md"
+            "file": "Learnings/Marketing/Untitled.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +182,10 @@
   },
   "active": "da7bc1339fb97ff6",
   "lastOpenFiles": [
-    "2025-03-25.md",
     "Learnings/Business/Building Product.md",
+    "Learnings/Marketing/Untitled.md",
+    "Learnings/Marketing",
+    "2025-03-25.md",
     "Hardware Hacking/LG Bluray WH16NS40.md",
     "Gaming/Wii Emulation.md",
     "Art/Water Colouring.md",
@@ -209,7 +214,6 @@
     "Projects/Software/AI/AI Research Assistant/Building a Company Dossier.md",
     "Projects/Software/AI/AI Research Assistant/README.md",
     "Projects/Software/AI/AI Research Assistant/Sub Projects",
-    "Projects/Software/AI/AI Research Assistant",
     "Projects/Software/AI/Local LLM.md",
     "Gobi The Dinosaur.md",
     "IMG_9167.jpeg",
@@ -218,7 +222,6 @@
     "Wii Emulation.md",
     "2024-05-24.md",
     "Learnings/Software/Isolation Testing Postgres.md",
-    "2024-04-19.md",
-    "2024-04-18.md"
+    "2024-04-19.md"
   ]
 }
