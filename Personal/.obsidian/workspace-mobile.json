@@ -125,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hardware Hacking/LG Bluray WH16NS40.md",
+            "file": "Learnings/Marketing/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,14 +158,17 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Gobi The Dinosaur.md"
+            "file": "Learnings/Marketing/Untitled.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {

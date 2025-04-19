@@ -1,19 +1,19 @@
 
 ## **1. Product vs Marketing**
 
-_One-sentence summary:_ Success comes from both having a great product and knowing how to marzket it well.
+> Success comes from both having a great product and knowing how to marzket it well.
 
 _A detailed breakdown:_ A superior product with poor marketing goes unnoticed; outstanding marketing for a weak product creates churn. You need both to build a scalable business. Entrepreneurs often over-invest in product perfection while neglecting visibility. Equally, strong marketing of a poor product eventually leads to bad word of mouth and brand damage. The winning approach is to iterate quickly, improve based on customer feedback, and simultaneously invest in an aggressive go-to-market strategy.
 
 ## **2. Sell What the Market is Starving For**
 
-_One-sentence summary:_ Focus on solving urgent, painful problems that customers are already actively seeking solutions for.
+> Focus on solving urgent, painful problems that customers are already actively seeking solutions for.
 
 _A detailed breakdown:_ Entrepreneurs often fail by launching products they think people want. Instead, identify where demand already exists. Use Google search data, online forums, and competitor analysis to confirm market appetite. Build a minimal viable offer (MVO) and test it. If it resonates, scale. If not, pivot. Solve known problems in markets with active buyers before you try to innovate.
 
 ## **3. Direct Response vs Brand Marketing**
 
-_One-sentence summary:_ Begin with direct response to generate revenue and feedback before transitioning into brand building.
+> Begin with direct response to generate revenue and feedback before transitioning into brand building.
 
 _A detailed breakdown:_ Direct response marketing includes tactics like cold calls, landing pages, and social DMs that drive instant action. It helps validate messaging and customer segments quickly. Brand marketing builds long-term equity but takes more time and budget. The smartest approach is to use direct response first to generate cash flow and customer insights, then reinvest profits into creating a brand people trust and remember.
 
