@@ -2,9 +2,10 @@
   "accentColor": "",
   "showRibbon": true,
   "cssTheme": "",
-  "textFontFamily": "",
-  "interfaceFontFamily": "",
+  "textFontFamily": "San Francisco",
+  "interfaceFontFamily": "San Francisco",
   "enabledCssSnippets": [
     "san-francisco"
-  ]
+  ],
+  "monospaceFontFamily": ""
 }
