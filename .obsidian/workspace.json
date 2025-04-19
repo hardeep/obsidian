@@ -119,6 +119,7 @@
       {
         "id": "154555b196c0eb99",
         "type": "tabs",
+        "dimension": 62.394067796610166,
         "children": [
           {
             "id": "4a0ed468711ca0d4",
@@ -176,6 +177,23 @@
               },
               "icon": "lucide-list",
               "title": "Outline of README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a3673e1d9486cbd3",
+        "type": "tabs",
+        "dimension": 37.60593220338983,
+        "children": [
+          {
+            "id": "6a0fa62f63f89164",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
