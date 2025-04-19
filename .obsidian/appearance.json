@@ -1,5 +1,7 @@
 {
   "accentColor": "",
   "showRibbon": true,
-  "cssTheme": ""
+  "cssTheme": "",
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
 }
