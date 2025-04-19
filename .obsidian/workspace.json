@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-04-14.md",
+                "file": "Personal/2025-03-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2024-04-14"
+              "title": "2025-03-25"
             }
           }
         ],
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-04-14.md",
+                "file": "Personal/2025-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-04-14"
+              "title": "Backlinks for 2025-03-25"
             }
           },
           {
@@ -215,15 +215,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a95ae648a7582e48",
+  "active": "dcc8aa258e885efd",
   "lastOpenFiles": [
+    "Start Page.md",
+    "README.md",
+    "Daily/2024-04-14.md",
+    "attachments/Pasted image 20250225171208.png",
     "Personal/Learnings/Marketing/Untitled.md",
     "Personal/Learnings/Marketing",
     "Medcan.md",
-    "attachments/Pasted image 20250225171208.png",
     "attachments",
     "Daily/2024-12-30.md",
-    "Daily/2024-04-14.md",
     "Puro.md",
     "Personal/Lists/Reading.md",
     "Personal/Worklog.md",
@@ -237,7 +239,6 @@
     "1.md",
     "Personal/Lists/Toronto List.md",
     "Personal/Lists/Gift Ideas.md",
-    "README.md",
     "Personal/Projects/Chair Project/HAVSTEN.md",
     "Personal/Gaming/Wii Emulation.md",
     "Personal/README.md",
@@ -255,7 +256,6 @@
     "Personal/Memories",
     "Personal/Art/Water Colouring.md",
     "Attachments",
-    "Personal/Projects/Software/AI/AI Research Assistant/README.md",
     "Personal/Projects/Chair Project/Attachments/Havsten.png"
   ]
 }
