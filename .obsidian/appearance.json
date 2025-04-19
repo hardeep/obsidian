@@ -4,8 +4,6 @@
   "cssTheme": "",
   "textFontFamily": "San Francisco",
   "interfaceFontFamily": "San Francisco",
-  "enabledCssSnippets": [
-    "san-francisco"
-  ],
+  "enabledCssSnippets": [],
   "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono"
 }
