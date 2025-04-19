@@ -3,5 +3,8 @@
   "showRibbon": true,
   "cssTheme": "",
   "textFontFamily": "",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "san-francisco"
+  ]
 }
