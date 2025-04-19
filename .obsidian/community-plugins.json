@@ -1,5 +1,8 @@
 [
   "obsidian-tasks-plugin",
   "obsidian-git",
-  "calendar"
+  "calendar",
+  "obsidian-icon-folder",
+  "dataview",
+  "obsidian-kanban"
 ]
