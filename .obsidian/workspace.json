@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
+                "file": "Daily/2025-04-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jobs-to-Be-Done"
+              "title": "2025-04-19"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#promp-library",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +106,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
+                "file": "Daily/2025-04-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jobs-to-Be-Done"
+              "title": "Backlinks for 2025-04-19"
             }
           },
           {
@@ -176,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
+                "file": "Daily/2025-04-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jobs-to-Be-Done"
+              "title": "Outline of 2025-04-19"
             }
           }
         ],
@@ -223,8 +222,9 @@
   },
   "active": "a95ae648a7582e48",
   "lastOpenFiles": [
-    "Personal/Lists/Reading.md",
     "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
+    "Daily/2025-04-19.md",
+    "Personal/Lists/Reading.md",
     "Personal/Lists/Prompt Library",
     "Personal/Lists/Untitled.md",
     "Personal/Lists/Gift Ideas.md",
@@ -255,7 +255,6 @@
     "Personal/Gaming",
     "Personal/Lists",
     "Personal/Learnings/Design/Data Visualizations/1 Dimensional Data.md",
-    "Personal/Projects/Software/AI/Local LLM.md",
     "Personal/Projects/Software/AI",
     "Personal/Projects/Chair Project/Attachments",
     "Personal/Memories/Attachments/IMG_9166.webp",

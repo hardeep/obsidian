@@ -1,4 +1,9 @@
-#product #prompt-library
+---
+tags:
+  - Product
+  - Prompt-Library
+purpose: To define pure core job statements for a product, based on the Jobs-to-Be-Done (JTBD) framework
+---
 
 ```
 # 🛠️ Jobs-to-Be-Done (JTBD) Core Job Statement Template
