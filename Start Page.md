@@ -1,3 +1,5 @@
+## Tasks from Journal
+
 ```dataviewjs
 const folder = "Daily";
 
@@ -9,3 +11,4 @@ dv.taskList(
   true
 );
 ```
+
