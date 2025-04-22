@@ -1,25 +1,37 @@
+* I walked away from yesterday's meeting feeling pretty exhausted.
+* I don't think there were two things that I wanted to walk away with
+	* I have two people who have experience in creating physical product companies. Can they provide some mentorship around our thinking.
+	* How are they thinking about 
+### Table 1: What the Board Should _Always_ Be Doing
 
-* Pressure-test assumptions on market attractiveness.
-- Help prioritize between product vs. market expansion.
-- Guide fundraising, resourcing, and timing of bets.    
-- Connect you with leaders in target sectors.
+|**Focus Area**|**Board Responsibilities**|
+|---|---|
+|Strategic Oversight|Ensure clarity of vision, assess risks, and challenge assumptions at a macro level|
+|Financial Stewardship|Approve budgets, monitor financial health, validate capital allocation|
+|CEO/Exec Support|Mentor leadership, provide accountability, support recruiting of key execs|
+|Governance & Compliance|Enforce policies, manage legal exposure, and uphold ethical standards|
+|Market Awareness|Stay current with trends and bring external perspective on industry shifts and dynamics|
 
-New markets = new chasm. You’ll likely need to re-do your early adopter → early majority playbook.
+---
 
-When a company is trying to cross the chasm—that is, transition from early adopters to the early majority in the technology adoption lifecycle—the board of directors should be a critical strategic asset.
-### 1. **Market Insight and Focus**
+### Table 2: Board Contributions to Increasing ARPA
 
-- **Refining target segment**: Board members often bring experience and industry insight that helps narrow the target segment within the early majority.
-- **Customer persona validation**: They challenge assumptions and push for clarity on who the "beachhead" customer is.
-### 2. **Go-to-Market Guidance**
+| **Focus Area**        | **Board Contributions**                                                                 |
+| --------------------- | --------------------------------------------------------------------------------------- |
+| Monetization Strategy | Review pricing models, validate packaging/tiering, encourage experimentation            |
+| Customer Segmentation | Push for clarity on high-value segments, identify underserved niches                    |
+| Product Investment    | Endorse roadmap alignment with upsell opportunities and stickiness                      |
+| Expansion Metrics     | Help define and track KPIs (ARPU, NRR, upsell rate), review cohort-based performance    |
+| GTM Motion Alignment  | Support sales/customer success alignment and accountability across the expansion funnel |
 
-- **Sales and marketing oversight**: The board ensures the company shifts to a repeatable, scalable GTM process.
-- **Pricing, packaging, and positioning**: They pressure-test these elements to align with expectations of mainstream buyers.
-### 3. **Operational Scaling**
+---
 
-- **Hiring leadership**: They often assist in recruiting key hires, especially in sales, marketing, and customer success.
-- **Building infrastructure**: They support investments in customer support, onboarding, and training—crucial for the early majority.
-### 4. **Financial Stewardship**
+### Table 3: Board Contributions to Accessing New Markets
 
-- **Funding readiness**: Crossing the chasm can require significant capital to build infrastructure and bridge slower sales cycles.
-- **Metrics focus**: Boards help define and monitor KPIs like CAC, LTV, and churn to ensure progress is measurable and sustainable.
+|**Focus Area**|**Board Contributions**|
+|---|---|
+|Market Evaluation|Pressure-test target markets, assess TAM, and compare expansion opportunities|
+|Strategic Intros|Leverage personal networks to connect with insiders, partners, or lighthouse customers|
+|Talent & Hiring|Support hiring or advising of vertical-specific GTM or product leaders|
+|GTM Playbook Review|Offer insight on successful expansion models, distribution channels, or localized entry|
+|Risk Framing|Help define investment vs. return expectations, and build alignment on timeline to payback|
