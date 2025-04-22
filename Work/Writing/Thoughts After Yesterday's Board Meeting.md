@@ -4,6 +4,8 @@ First, we have two board members with deep experience in building physical produ
 
 Second, I had hoped for more clarity around fundraising—whether it’s something we should be actively pursuing, how the board is thinking about it, and what metrics or signals they’d need to see in order to contribute or support that process meaningfully.
 
+Help us increase the certainty or validate where we're going to put our money
+
 ### Table 1: What the Board Should _Always_ Be Doing
 
 |**Focus Area**|**Board Responsibilities**|
