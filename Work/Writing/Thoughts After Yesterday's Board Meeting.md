@@ -1,3 +1,11 @@
+
+* Pressure-test assumptions on market attractiveness.
+- Help prioritize between product vs. market expansion.
+- Guide fundraising, resourcing, and timing of bets.    
+- Connect you with leaders in target sectors.
+
+New markets = new chasm. You’ll likely need to re-do your early adopter → early majority playbook.
+
 When a company is trying to cross the chasm—that is, transition from early adopters to the early majority in the technology adoption lifecycle—the board of directors should be a critical strategic asset.
 ### 1. **Market Insight and Focus**
 
