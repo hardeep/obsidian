@@ -1,12 +1,8 @@
-* I walked away from yesterday's meeting feeling pretty exhausted and confused.
-* There were two things that I wanted to walk away with
-	* I have two people who have experience in creating physical product companies. Can they provide some mentorship around our thinking.
-		* What insights can they provide around our understanding of the problem.
-		* We've had some headwinds in the market with landing more of the market. We've been trying to answer:
-			* Is it a product problem
-			* Is it a way that we're trying to sell into the market
-			* Is it a market awareness problem?
-	* How are they thinking about fundraising. Is it an option, how will they contribute, when will they contribute (what metrics need to be hit)
+After yesterday’s board meeting, I left feeling somewhat exhausted and unclear. There were two key outcomes I had hoped to walk away with:
+
+First, we have two board members with deep experience in building physical product companies, and I was hoping for more structured mentorship from them. Specifically, I’d like their perspective on how we’re framing the problem we’re solving and what might be contributing to the challenges we're facing in gaining more market traction. We're trying to understand whether it’s a product issue, a go-to-market execution issue, or a market awareness gap.
+
+Second, I had hoped for more clarity around fundraising—whether it’s something we should be actively pursuing, how the board is thinking about it, and what metrics or signals they’d need to see in order to contribute or support that process meaningfully.
 
 ### Table 1: What the Board Should _Always_ Be Doing
 
