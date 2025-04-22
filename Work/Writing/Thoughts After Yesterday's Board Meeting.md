@@ -1,7 +1,13 @@
-* I walked away from yesterday's meeting feeling pretty exhausted.
-* I don't think there were two things that I wanted to walk away with
+* I walked away from yesterday's meeting feeling pretty exhausted and confused.
+* There were two things that I wanted to walk away with
 	* I have two people who have experience in creating physical product companies. Can they provide some mentorship around our thinking.
-	* How are they thinking about 
+		* What insights can they provide around our understanding of the problem.
+		* We've had some headwinds in the market with landing more of the market. We've been trying to answer:
+			* Is it a product problem
+			* Is it a way that we're trying to sell into the market
+			* Is it a market awareness problem?
+	* How are they thinking about fundraising. Is it an option, how will they contribute, when will they contribute (what metrics need to be hit)
+
 ### Table 1: What the Board Should _Always_ Be Doing
 
 |**Focus Area**|**Board Responsibilities**|
