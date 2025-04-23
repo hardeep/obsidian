@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
+                "file": "Daily/2025-04-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thoughts After Yesterday's Board Meeting"
+              "title": "2025-04-23"
             }
           }
         ]
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,6 +202,7 @@
   "active": "638a8ef006470b0d",
   "lastOpenFiles": [
     "Daily/2025-04-22.md",
+    "Daily/2025-04-23.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Work/Writing",
     "Work",
@@ -234,7 +234,6 @@
     "Daily/2024-04-18.md",
     "1.md",
     "Personal/Projects/Chair Project/HAVSTEN.md",
-    "Personal/Gaming/Wii Emulation.md",
     "Personal/Gaming",
     "Personal/Lists",
     "Personal/Projects/Software/AI",
