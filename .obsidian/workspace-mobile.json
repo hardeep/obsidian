@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start Page.md",
+                "file": "Personal/Lists/Business Ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start Page"
+              "title": "Business Ideas"
             }
           }
         ]
@@ -177,7 +177,8 @@
   },
   "active": "d342083c2818d3de",
   "lastOpenFiles": [
-    "Daily/2025-04-19.md",
-    "Start Page.md"
+    "Start Page.md",
+    "Personal/Lists/Business Ideas.md",
+    "Daily/2025-04-19.md"
   ]
 }
