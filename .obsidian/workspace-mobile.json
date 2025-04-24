@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start Page.md",
-                "mode": "source",
+                "file": "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start Page"
+              "title": "Thoughts After Yesterday's Board Meeting"
             }
           }
         ]
@@ -159,9 +159,19 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
+      },
+      {
+        "id": "b916c9429c739cfa",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
