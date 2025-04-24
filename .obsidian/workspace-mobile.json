@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
-                "mode": "preview",
+                "file": "Start Page.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thoughts After Yesterday's Board Meeting"
+              "title": "Start Page"
             }
           }
         ]
@@ -188,12 +188,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Start Page.md",
     "Personal/Lists/Business Ideas.md",
     "Personal/Learnings/Marketing/Marketing Learnings.md",
     "Daily/2025-04-22.md",
     "Daily/2025-04-23.md",
-    "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Work/Writing",
     "Work",
     "Daily/2025-04-19.md"
