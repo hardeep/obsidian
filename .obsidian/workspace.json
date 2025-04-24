@@ -4,56 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "51445819f679f6f6",
+        "id": "d02b522986cf80c7",
         "type": "tabs",
         "children": [
           {
-            "id": "1388be9dddd76219",
+            "id": "638a8ef006470b0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Lists/Reading.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reading"
-            }
-          },
-          {
-            "id": "31ef67518df8edea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-12-30.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-30"
-            }
-          },
-          {
-            "id": "a95ae648a7582e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-04-19.md",
+                "file": "Daily/2025-04-23.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2025-04-19"
+              "title": "2025-04-23"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "68a83c9bc5b5a566",
@@ -127,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2025-04-19.md",
+                "file": "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-04-19"
+              "title": "Backlinks for Jobs-to-Be-Done"
             }
           },
           {
@@ -175,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025-04-19.md",
+                "file": "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-04-19"
+              "title": "Outline of Jobs-to-Be-Done"
             }
           }
         ],
@@ -220,11 +199,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a95ae648a7582e48",
+  "active": "638a8ef006470b0d",
   "lastOpenFiles": [
-    "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
-    "Daily/2025-04-19.md",
+    "Daily/2025-04-22.md",
+    "Daily/2025-04-23.md",
+    "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
+    "Work/Writing",
+    "Work",
     "Personal/Lists/Reading.md",
+    "Daily/2024-12-30.md",
+    "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
+    "Personal/Learnings/Marketing/Marketing Learnings.md",
+    "Daily/2025-04-19.md",
     "Personal/Lists/Prompt Library",
     "Personal/Lists/Untitled.md",
     "Personal/Lists/Gift Ideas.md",
@@ -236,11 +222,9 @@
     "README.md",
     "Daily/2025-03-25.md",
     "attachments/Pasted image 20250225171208.png",
-    "Personal/Learnings/Marketing/Untitled.md",
     "Personal/Learnings/Marketing",
     "Medcan.md",
     "attachments",
-    "Daily/2024-12-30.md",
     "Personal/Planning/2025.md",
     "Daily/2025-01-05.md",
     "Daily/2024-12-28.md",
@@ -250,17 +234,12 @@
     "Daily/2024-04-18.md",
     "1.md",
     "Personal/Projects/Chair Project/HAVSTEN.md",
-    "Personal/Gaming/Wii Emulation.md",
-    "Personal/README.md",
     "Personal/Gaming",
     "Personal/Lists",
-    "Personal/Learnings/Design/Data Visualizations/1 Dimensional Data.md",
     "Personal/Projects/Software/AI",
     "Personal/Projects/Chair Project/Attachments",
     "Personal/Memories/Attachments/IMG_9166.webp",
     "Personal/Memories/Attachments/IMG_9167.jpeg",
-    "Personal/Memories/Attachments",
-    "Personal/Memories",
     "Personal/Projects/Chair Project/Attachments/Havsten.png"
   ]
 }
