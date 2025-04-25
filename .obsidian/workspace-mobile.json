@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily/2025-04-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-04-24"
             }
           }
         ]
@@ -189,6 +189,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Start Page.md",
+    "Daily/2025-04-24.md",
+    "README.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Personal/Lists/Business Ideas.md",
     "Personal/Learnings/Marketing/Marketing Learnings.md",
