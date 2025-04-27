@@ -159,16 +159,6 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
-      },
-      {
-        "id": "b916c9429c739cfa",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
     "currentTab": 3
