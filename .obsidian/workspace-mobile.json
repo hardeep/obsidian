@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-04-24.md",
+                "file": "Start Page.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-24"
+              "title": "Start Page"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Daily/2025-04-26.md",
     "Start Page.md",
     "Daily/2025-04-24.md",
     "README.md",
