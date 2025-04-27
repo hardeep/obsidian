@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start Page.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start Page"
+              "title": "Start"
             }
           }
         ]
@@ -189,7 +189,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Daily/2025-04-26.md",
-    "Start Page.md",
+    "Start.md",
     "Daily/2025-04-24.md",
     "README.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
