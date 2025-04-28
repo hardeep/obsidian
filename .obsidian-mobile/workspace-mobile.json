@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Learnings/Learning to Learn.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning to Learn"
+              "title": "Start"
             }
           }
         ]
@@ -166,8 +166,10 @@
   },
   "active": "fa0550a3a375f27a",
   "lastOpenFiles": [
-    "Personal/Lists/Prompt Library/Youtube Learning.md",
+    "2025-04-28.md",
+    "Daily/2025-04-26.md",
+    "Start.md",
     "Personal/Learnings/Learning to Learn.md",
-    "Start.md"
+    "Personal/Lists/Prompt Library/Youtube Learning.md"
   ]
 }
