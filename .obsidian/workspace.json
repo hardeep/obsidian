@@ -11,10 +11,24 @@
             "id": "ee1258cd23b74d95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-04-29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-04-29"
             }
           }
         ]
@@ -186,6 +200,16 @@
   },
   "active": "ee1258cd23b74d95",
   "lastOpenFiles": [
+    "Work/Puro.md",
+    "Work/Medcan.md",
+    "Start.md",
+    "Personal/Lists/Prompt Library/Youtube Learning.md",
+    "Personal/Lists/Business Ideas.md",
+    "Personal/Learnings/Learning to Learn.md",
+    "Daily/2025-04-29.md",
+    "Daily/2025-04-28.md",
+    "Daily/2025-04-26.md",
+    "Daily/2025-04-24.md",
     "Daily/2025-04-23.md",
     "Daily/2025-04-22.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
@@ -205,20 +229,10 @@
     "Start Page.md",
     "Daily/2024-04-14.md",
     "README.md",
-    "Daily/2025-03-25.md",
     "attachments/Pasted image 20250225171208.png",
     "Personal/Learnings/Marketing",
-    "Medcan.md",
     "attachments",
-    "Personal/Planning/2025.md",
-    "Daily/2025-01-05.md",
-    "Daily/2024-12-28.md",
     "Personal/Planning",
-    "Daily/2024-05-24.md",
-    "Daily/2024-04-19.md",
-    "Daily/2024-04-18.md",
-    "1.md",
-    "Personal/Projects/Chair Project/HAVSTEN.md",
     "Personal/Gaming",
     "Personal/Lists",
     "Personal/Projects/Software/AI",
