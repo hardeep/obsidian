@@ -195,11 +195,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Daily/2025-05-14.md",
+    "Daily/2025-05-13.md",
+    "Daily/2025-05-09.md",
+    "Daily/2025-05-03.md",
     "Daily/2025-04-29.md",
     "Start.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
@@ -226,9 +231,6 @@
     "Personal/Lists/Gift Ideas.md",
     "Personal/Lists/Toronto List.md",
     "Personal/Worklog.md",
-    "Puro.md",
-    "Start Page.md",
-    "Daily/2024-04-14.md",
     "attachments/Pasted image 20250225171208.png",
     "Personal/Learnings/Marketing",
     "attachments",
