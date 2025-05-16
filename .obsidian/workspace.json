@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Daily/2025-05-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "2025-05-16"
             }
           }
         ]
@@ -202,11 +202,12 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Daily/2025-05-14.md",
+    "Daily/2025-05-16.md",
+    "Start.md",
     "Daily/2025-05-13.md",
     "Daily/2025-05-09.md",
     "Daily/2025-05-03.md",
     "Daily/2025-04-29.md",
-    "Start.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "image.jpg",
     "Work/Puro.md",
@@ -230,7 +231,6 @@
     "Personal/Lists/Untitled.md",
     "Personal/Lists/Gift Ideas.md",
     "Personal/Lists/Toronto List.md",
-    "Personal/Worklog.md",
     "attachments/Pasted image 20250225171208.png",
     "Personal/Learnings/Marketing",
     "attachments",
