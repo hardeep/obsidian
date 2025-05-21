@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Work/Business Building/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "Untitled"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "68a83c9bc5b5a566",
@@ -202,10 +201,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Start.md",
+    "Work/Business Building/Untitled.md",
+    "Work/Business Building",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Daily/2025-05-16.md",
     "Daily/2025-05-14.md",
-    "Start.md",
     "Daily/2025-05-13.md",
     "Daily/2025-05-09.md",
     "Daily/2025-05-03.md",
@@ -231,7 +232,6 @@
     "Personal/Lists/Prompt Library",
     "Personal/Lists/Untitled.md",
     "Personal/Lists/Gift Ideas.md",
-    "Personal/Lists/Toronto List.md",
     "attachments/Pasted image 20250225171208.png",
     "Personal/Learnings/Marketing",
     "attachments",
@@ -239,7 +239,6 @@
     "Personal/Gaming",
     "Personal/Lists",
     "Personal/Projects/Software/AI",
-    "Personal/Projects/Chair Project/Attachments",
     "Personal/Memories/Attachments/IMG_9166.webp",
     "Personal/Memories/Attachments/IMG_9167.jpeg",
     "Personal/Projects/Chair Project/Attachments/Havsten.png"
