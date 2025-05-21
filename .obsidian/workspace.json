@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thoughts After Yesterday's Board Meeting"
+              "title": "Start"
             }
           }
         ]
@@ -202,6 +202,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Daily/2025-05-16.md",
     "Daily/2025-05-14.md",
     "Start.md",
@@ -209,7 +210,6 @@
     "Daily/2025-05-09.md",
     "Daily/2025-05-03.md",
     "Daily/2025-04-29.md",
-    "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "image.jpg",
     "Work/Puro.md",
     "Work/Medcan.md",
