@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-05-27"
             }
+          },
+          {
+            "id": "42ef0f38b3716f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,10 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "42ef0f38b3716f09",
   "lastOpenFiles": [
-    "Work/Business Building/Effective Board Updates.md",
     "Daily/2025-05-27.md",
+    "Untitled.md",
+    "Work/Business Building/Effective Board Updates.md",
     "Daily/2025-05-21.md",
     "Start.md",
     "Work/Business Building",
@@ -230,7 +256,6 @@
     "Daily/2024-12-30.md",
     "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
     "Personal/Learnings/Marketing/Marketing Learnings.md",
-    "Daily/2025-04-19.md",
     "Personal/Lists/Prompt Library",
     "attachments/Pasted image 20250225171208.png",
     "Personal/Learnings/Marketing",
