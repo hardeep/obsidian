@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Personal/Lists/Restaurants.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "Restaurants"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,6 +202,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Start.md",
+    "Personal/Lists/Restaurants.md",
     "Work/Business Building/Effective Board Updates.md",
     "Untitled.md",
     "Daily/2025-05-27.md",
@@ -231,7 +231,6 @@
     "Personal/Lists/Reading.md",
     "Daily/2024-12-30.md",
     "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
-    "Personal/Learnings/Marketing/Marketing Learnings.md",
     "Personal/Lists/Prompt Library",
     "attachments/Pasted image 20250225171208.png",
     "Personal/Learnings/Marketing",
