@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-05-27.md",
+                "file": "Personal/Lists/Reading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-27"
+              "title": "Reading"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "fa0550a3a375f27a",
   "lastOpenFiles": [
-    "Personal/Lists/Toronto List.md",
     "Daily/2025-05-27.md",
+    "Personal/Lists/Toronto List.md",
     "Untitled.md",
     "Work/Business Building/Effective Board Updates.md",
     "Daily/2025-05-21.md",
