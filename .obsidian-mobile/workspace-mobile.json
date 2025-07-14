@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Restaurants.md",
+                "file": "Daily/2025-07-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Restaurants"
+              "title": "2025-07-13"
             }
           }
         ],
@@ -181,9 +181,11 @@
   },
   "active": "c0a2ff92a64f8b15",
   "lastOpenFiles": [
-    "Personal/Lists/Reading.md",
-    "Restaurants.md",
     "Daily/2025-05-27.md",
+    "Daily/2025-07-13.md",
+    "Personal/Lists/Restaurants.md",
+    "Restaurants.md",
+    "Personal/Lists/Reading.md",
     "Personal/Lists/Toronto List.md",
     "Untitled.md",
     "Work/Business Building/Effective Board Updates.md",
