@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-07-16.md",
-                "mode": "source",
+                "file": "Start.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-16"
+              "title": "Start"
             }
           }
         ]
@@ -167,8 +167,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Start.md",
     "Daily/2025-07-16.md",
+    "Start.md",
     "Ideas for Elevated Signals.md",
     "Personal/Lists/Tabs.md",
     "Personal/Lists/Toronto List.md",
