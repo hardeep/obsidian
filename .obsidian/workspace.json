@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
+                "file": "Daily/2025-07-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jobs-to-Be-Done"
+              "title": "Backlinks for 2025-07-13"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily/2025-07-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 2025-07-13"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
+                "file": "Daily/2025-07-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jobs-to-Be-Done"
+              "title": "Outline of 2025-07-13"
             }
           }
         ],
@@ -199,12 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "10367c746351e4c6",
   "lastOpenFiles": [
     "Start.md",
+    "Daily/2025-07-13.md",
     "Daily/2025-07-16.md",
     "Personal/Lists/Tabs.md",
-    "Daily/2025-07-13.md",
     "Ideas for Elevated Signals.md",
     "Daily/2025-04-29.md",
     "Daily/2025-04-28.md",
