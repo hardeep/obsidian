@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-07-13.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-13"
+              "title": "Start"
             }
           }
         ]
@@ -199,10 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10367c746351e4c6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Start.md",
+    "Personal/Learnings/Business/Building a Brand.md",
     "Daily/2025-07-13.md",
+    "Start.md",
     "Daily/2025-07-16.md",
     "Personal/Lists/Tabs.md",
     "Ideas for Elevated Signals.md",
@@ -228,7 +229,6 @@
     "Personal/Learnings/Learning to Learn.md",
     "Daily/2025-04-26.md",
     "Daily/2025-04-24.md",
-    "Daily/2025-04-23.md",
     "Work/Writing",
     "Work",
     "Personal/Lists/Prompt Library",
