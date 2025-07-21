@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Daily/2025-07-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "2025-07-21"
             }
           }
         ]
@@ -201,10 +201,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Daily/2025-07-16.md",
+    "Daily/2025-07-21.md",
+    "Start.md",
     "Personal/Learnings/Business/Building a Brand.md",
     "Daily/2025-07-13.md",
-    "Start.md",
-    "Daily/2025-07-16.md",
     "Personal/Lists/Tabs.md",
     "Ideas for Elevated Signals.md",
     "Daily/2025-04-29.md",
@@ -228,7 +229,6 @@
     "Personal/Lists/Business Ideas.md",
     "Personal/Learnings/Learning to Learn.md",
     "Daily/2025-04-26.md",
-    "Daily/2025-04-24.md",
     "Work/Writing",
     "Work",
     "Personal/Lists/Prompt Library",
