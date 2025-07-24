@@ -29,6 +29,8 @@ https://www.instagram.com/reel/DMNeD8hRux5/?igsh=bXQ4cTJwZGpuNWxu
 Video Marketing
 https://www.instagram.com/reel/DIwrXufSfUo/?igsh=MXRlNzg1MThneDl3cw==
 
+Shot list?
+
 
 Manufacturing businesses typically have a set of core aspirations that drive their long-term strategy. These aspirations can be grouped into **growth**, **efficiency**, **resilience**, **innovation**, and **impact**. Here’s a structured overview:
 
