@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Learnings/Business/Building a Brand.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Building a Brand"
+              "title": "Start"
             }
           }
         ]
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,14 +200,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7cf85be353257484",
   "lastOpenFiles": [
+    "Personal/Learnings/Business/Building a Brand.md",
     "Daily/2025-07-25.md",
     "Work/Business Building/Effective Board Updates.md",
     "Daily/2025-07-21.md",
     "Daily/2025-07-16.md",
     "Start.md",
-    "Personal/Learnings/Business/Building a Brand.md",
     "Daily/2025-07-13.md",
     "Personal/Lists/Tabs.md",
     "Ideas for Elevated Signals.md",
