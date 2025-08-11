@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "Thoughts After Yesterday's Board Meeting"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "68a83c9bc5b5a566",
@@ -185,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,14 +202,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cf85be353257484",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Start.md",
     "Personal/Learnings/Business/Building a Brand.md",
     "Daily/2025-07-25.md",
     "Work/Business Building/Effective Board Updates.md",
     "Daily/2025-07-21.md",
     "Daily/2025-07-16.md",
-    "Start.md",
     "Daily/2025-07-13.md",
     "Personal/Lists/Tabs.md",
     "Ideas for Elevated Signals.md",
