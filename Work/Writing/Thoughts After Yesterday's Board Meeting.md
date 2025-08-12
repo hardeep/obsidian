@@ -33,10 +33,10 @@ Second, I had hoped for more clarity around fundraising—whether it’s somethi
 
 ### Table 3: Board Contributions to Accessing New Markets
 
-|**Focus Area**|**Board Contributions**|
-|---|---|
-|Market Evaluation|Pressure-test target markets, assess TAM, and compare expansion opportunities|
-|Strategic Intros|Leverage personal networks to connect with insiders, partners, or lighthouse customers|
-|Talent & Hiring|Support hiring or advising of vertical-specific GTM or product leaders|
-|GTM Playbook Review|Offer insight on successful expansion models, distribution channels, or localized entry|
-|Risk Framing|Help define investment vs. return expectations, and build alignment on timeline to payback|
+| **Focus Area**      | **Board Contributions**                                                                    |
+| ------------------- | ------------------------------------------------------------------------------------------ |
+| Market Evaluation   | Pressure-test target markets, assess TAM, and compare expansion opportunities              |
+| Strategic Intros    | Leverage personal networks to connect with insiders, partners, or lighthouse customers     |
+| Talent & Hiring     | Support hiring or advising of vertical-specific GTM or product leaders                     |
+| GTM Playbook Review | Offer insight on successful expansion models, distribution channels, or localized entry    |
+| Risk Framing        | Help define investment vs. return expectations, and build alignment on timeline to payback |
