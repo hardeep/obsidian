@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Learnings/Business/Building a Brand.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Building a Brand"
+              "title": "Start"
             }
           }
         ]
@@ -84,11 +84,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "68a83c9bc5b5a566",
@@ -184,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,12 +204,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
+    "Start.md",
+    "Personal/Learnings/Business/Building a Brand.md",
     "Daily/2025-07-25.md",
     "Work/Business Building/Effective Board Updates.md",
     "Daily/2025-07-21.md",
     "Daily/2025-07-16.md",
-    "Start.md",
-    "Personal/Learnings/Business/Building a Brand.md",
     "Daily/2025-07-13.md",
     "Personal/Lists/Tabs.md",
     "Ideas for Elevated Signals.md",
@@ -217,7 +221,6 @@
     "Daily/2025-05-27.md",
     "Daily/2025-05-21.md",
     "Work/Business Building",
-    "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Daily/2025-05-16.md",
     "Daily/2025-05-14.md",
     "Daily/2025-05-13.md",
