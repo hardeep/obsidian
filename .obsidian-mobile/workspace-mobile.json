@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Lists/Restaurants.md",
+                "file": "Daily/2025-08-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Restaurants"
+              "title": "2025-08-19"
             }
           }
         ]
@@ -168,8 +168,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Personal/Lists/Business Ideas.md",
     "Start.md",
+    "Personal/Lists/Restaurants.md",
+    "Personal/Lists/Business Ideas.md",
     "Daily/2025-08-19.md",
     "Personal/Learnings/Business/Building a Brand.md",
     "Daily/2025-07-25.md",
@@ -182,7 +183,6 @@
     "Untitled 1",
     "Untitled",
     "Daily/2025-05-27.md",
-    "Personal/Lists/Restaurants.md",
     "Restaurants.md",
     "Personal/Lists/Reading.md",
     "Work/Business Building/Effective Board Updates.md",
