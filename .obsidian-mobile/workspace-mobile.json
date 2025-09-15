@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
-                "mode": "preview",
+                "file": "Personal/Lists/San Francisco.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "San Francisco"
             }
           }
         ]
@@ -168,9 +168,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Daily/2025-08-19.md",
-    "Start.md",
+    "Pasted image 20250915220436.png",
     "Personal/Lists/Restaurants.md",
+    "Personal/Lists/San Francisco.md",
+    "Start.md",
+    "Daily/2025-08-19.md",
     "Personal/Lists/Business Ideas.md",
     "Personal/Learnings/Business/Building a Brand.md",
     "Daily/2025-07-25.md",
@@ -195,8 +197,6 @@
     "Daily/2025-05-03.md",
     "Daily/2025-04-29.md",
     "image.jpg",
-    "Daily/2025-04-28.md",
-    "Daily/2025-04-26.md",
-    "Daily/2024-04-14.md"
+    "Daily/2025-04-28.md"
   ]
 }
