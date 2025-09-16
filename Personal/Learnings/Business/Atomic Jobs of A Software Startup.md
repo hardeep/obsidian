@@ -1,90 +1,90 @@
 
-| Lifecycle Stage             | Functional Group        | Core Job Statement                                                    |
-| --------------------------- | ----------------------- | --------------------------------------------------------------------- |
-| Vision & Strategy           | Executive Leadership    | Define company vision to guide long-term direction.                   |
-| Vision & Strategy           | Executive Leadership    | Set organizational priorities to allocate resources.                  |
-| Vision & Strategy           | Executive Leadership    | Communicate strategic goals to employees.                             |
-| Vision & Strategy           | Executive Leadership    | Communicate strategic goals to investors.                             |
-| Vision & Strategy           | Executive Leadership    | Communicate strategic goals to customers.                             |
-| Vision & Strategy           | Executive Leadership    | Monitor competitive landscape to adjust positioning.                  |
-| Product: Build & Deliver    | Product Development     | Define product vision to align with customer and market needs.        |
-| Product: Build & Deliver    | Product Development     | Translate customer requirements into product requirements.            |
-| Product: Build & Deliver    | Product Development     | Prioritize product features to align with strategic goals.            |
-| Product: Build & Deliver    | Product Development     | Build software functionality to meet requirements.                    |
-| Product: Build & Deliver    | Product Development     | Test software functionality under expected conditions.                |
-| Product: Build & Deliver    | Product Development     | Deploy software releases to customer environments.                    |
-| Product: Build & Deliver    | Product Development     | Maintain system availability during production use.                   |
-| Go-to-Market: Market & Sell | Marketing               | Define marketing vision to position the company in the market.        |
-| Go-to-Market: Market & Sell | Marketing               | Identify target customer segments for outreach.                       |
-| Go-to-Market: Market & Sell | Marketing               | Create messaging to communicate product value.                        |
-| Go-to-Market: Market & Sell | Marketing               | Develop campaigns to generate qualified leads.                        |
-| Go-to-Market: Market & Sell | Marketing               | Track market trends to adjust positioning.                            |
-| Go-to-Market: Market & Sell | Sales                   | Define sales vision to drive revenue growth.                          |
-| Go-to-Market: Market & Sell | Sales                   | Identify potential accounts that match the ideal customer profile.    |
-| Go-to-Market: Market & Sell | Sales                   | Engage prospects to assess fit and requirements.                      |
-| Go-to-Market: Market & Sell | Sales                   | Develop proposals that align with customer goals.                     |
-| Go-to-Market: Market & Sell | Sales                   | Negotiate agreements to formalize customer relationships.             |
-| Implementation & Onboarding | Implementation Services | Define implementation methodology vision to ensure scalable delivery. |
-| Implementation & Onboarding | Implementation Services | Configure the software to align with customer workflows.              |
-| Implementation & Onboarding | Implementation Services | Migrate customer data into the software environment.                  |
-| Implementation & Onboarding | Implementation Services | Train customer teams to use the software in daily operations.         |
-| Implementation & Onboarding | Implementation Services | Document customer-specific workflows within the software.             |
-| Customer Success & Growth   | Customer Success        | Define customer success vision to guide long-term adoption.           |
-| Customer Success & Growth   | Customer Success        | Monitor customer usage patterns to identify adoption gaps.            |
-| Customer Success & Growth   | Customer Success        | Address customer support requests to restore expected functionality.  |
-| Customer Success & Growth   | Customer Success        | Gather customer feedback to inform product enhancements.              |
-| Customer Success & Growth   | Customer Success        | Update implementation practices to improve customer outcomes.         |
-| Customer Success & Growth   | Client Management       | Define account management vision to strengthen relationships.         |
-| Customer Success & Growth   | Client Management       | Establish account plans to guide ongoing engagement.                  |
-| Customer Success & Growth   | Client Management       | Conduct regular business reviews with clients.                        |
-| Customer Success & Growth   | Client Management       | Expand client relationships to additional sites.                      |
-| Customer Success & Growth   | Client Management       | Expand client relationships to additional teams.                      |
-| Customer Success & Growth   | Client Management       | Renew client contracts to extend partnerships.                        |
-| Partnerships & Ecosystem    | Partnerships            | Define partner program vision to extend reach and integrations.       |
-| Partnerships & Ecosystem    | Partnerships            | Identify potential partners to expand market reach.                   |
-| Partnerships & Ecosystem    | Partnerships            | Negotiate partnership agreements to formalize collaboration.          |
-| Partnerships & Ecosystem    | Partnerships            | Coordinate with partners to deliver joint value to customers.         |
-| Partnerships & Ecosystem    | Partnerships            | Monitor partnership performance to assess mutual benefit.             |
-| Business Enablement         | Finance & Revenue       | Define financial vision to sustain long-term growth.                  |
-| Business Enablement         | Finance & Revenue       | Manage budgets to align spending with priorities.                     |
-| Business Enablement         | Finance & Revenue       | Track revenue to ensure business sustainability.                      |
-| Business Enablement         | Finance & Revenue       | Track costs to identify areas for optimization.                       |
-| Business Enablement         | Finance & Revenue       | Collect customer payments to sustain cash flow.                       |
-| Business Enablement         | Finance & Revenue       | Forecast financial performance to guide planning.                     |
-| Business Enablement         | Legal & Compliance      | Define compliance vision to maintain trust and minimize risk.         |
-| Business Enablement         | Legal & Compliance      | Draft contracts to define business obligations.                       |
-| Business Enablement         | Legal & Compliance      | Review contracts to reduce legal risk.                                |
-| Business Enablement         | Legal & Compliance      | Ensure adherence to data protection regulations.                      |
-| Business Enablement         | Legal & Compliance      | Ensure adherence to privacy regulations.                              |
-| Business Enablement         | Legal & Compliance      | Maintain audit records to support compliance obligations.             |
-| Business Enablement         | Legal & Compliance      | Resolve disputes with customers.                                      |
-| Business Enablement         | Legal & Compliance      | Resolve disputes with vendors.                                        |
-| Business Enablement         | Legal & Compliance      | Resolve disputes with partners.                                       |
-| Business Enablement         | People & Talent         | Define talent and culture vision to support company growth.           |
-| Business Enablement         | People & Talent         | Recruit qualified candidates to fill roles.                           |
-| Business Enablement         | People & Talent         | Onboard new employees to align with workflows.                        |
-| Business Enablement         | People & Talent         | Define performance expectations for individual roles.                 |
-| Business Enablement         | People & Talent         | Support employee development to improve skills.                       |
-| Business Enablement         | People & Talent         | Support employee development to improve retention.                    |
-| Business Enablement         | People & Talent         | Manage compensation to attract talent.                                |
-| Business Enablement         | People & Talent         | Manage benefits to retain talent.                                     |
-| Business Enablement         | IT & Internal Systems   | Define IT vision to support secure and scalable operations.           |
-| Business Enablement         | IT & Internal Systems   | Maintain internal technology systems to support operations.           |
-| Business Enablement         | IT & Internal Systems   | Provide secure access to company data.                                |
-| Business Enablement         | IT & Internal Systems   | Provide secure access to company applications.                        |
-| Business Enablement         | IT & Internal Systems   | Resolve internal IT issues to restore expected functionality.         |
-| Business Enablement         | IT & Internal Systems   | Integrate third-party tools into business workflows.                  |
-| Business Enablement         | Data & Analytics        | Define analytics vision to enable data-driven decision-making.        |
-| Business Enablement         | Data & Analytics        | Collect business performance data across functions.                   |
-| Business Enablement         | Data & Analytics        | Analyze trends to identify growth opportunities.                      |
-| Business Enablement         | Data & Analytics        | Build dashboards to communicate performance.                          |
-| Business Enablement         | Data & Analytics        | Ensure data quality to support accurate decision-making.              |
+| Lifecycle Stage             | Functional Group        | Core Job Statement                                                    | Description                                                    | Example Metric (Green / Yellow / Red)                    |
+| --------------------------- | ----------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------- |
+| Vision & Strategy           | Executive Leadership    | Define company vision to guide long-term direction.                   | Establish a long-term purpose and direction for the company.   | Vision documented/reviewed annually.                     |
+| Vision & Strategy           | Executive Leadership    | Set organizational priorities to allocate resources.                  | Decide focus areas and align budgets and people accordingly.   | % of budget aligned to top 3 priorities.                 |
+| Vision & Strategy           | Executive Leadership    | Communicate strategic goals to employees.                             | Share strategy internally so teams know direction.             | % employees who can articulate top 3 goals.              |
+| Vision & Strategy           | Executive Leadership    | Communicate strategic goals to investors.                             | Present company direction to current/potential investors.      | Investor updates delivered on schedule.                  |
+| Vision & Strategy           | Executive Leadership    | Communicate strategic goals to customers.                             | Show customers how roadmap supports their needs.               | % of customers aware of roadmap (survey/NPS).            |
+| Vision & Strategy           | Executive Leadership    | Monitor competitive landscape to adjust positioning.                  | Continuously track competitors and adjust company positioning. | Competitive review completed in last 6 months.           |
+| Product: Build & Deliver    | Product Development     | Define product vision to align with customer and market needs.        | Establish long-term product direction based on demand.         | Product vision documented/reviewed annually.             |
+| Product: Build & Deliver    | Product Development     | Translate customer requirements into product requirements.            | Capture user needs and turn them into clear product specs.     | % roadmap items validated with customer input.           |
+| Product: Build & Deliver    | Product Development     | Prioritize product features to align with strategic goals.            | Rank backlog and roadmap based on company goals.               | % roadmap items tied to top 3 strategic goals.           |
+| Product: Build & Deliver    | Product Development     | Build software functionality to meet requirements.                    | Develop features that fulfill requirements.                    | % of features released vs. planned.                      |
+| Product: Build & Deliver    | Product Development     | Test software functionality under expected conditions.                | Validate software before release to ensure quality.            | % of releases passing QA / # critical bugs post-release. |
+| Product: Build & Deliver    | Product Development     | Deploy software releases to customer environments.                    | Move tested software into production for customer use.         | Release frequency vs. target cadence.                    |
+| Product: Build & Deliver    | Product Development     | Maintain system availability during production use.                   | Ensure product uptime and reliability for customers.           | Uptime % (SLA adherence).                                |
+| Go-to-Market: Market & Sell | Marketing               | Define marketing vision to position the company in the market.        | Establish the brand and role in the industry.                  | Marketing strategy reviewed annually.                    |
+| Go-to-Market: Market & Sell | Marketing               | Identify target customer segments for outreach.                       | Define and update ICP (ideal customer profile).                | ICP documented and refreshed annually.                   |
+| Go-to-Market: Market & Sell | Marketing               | Create messaging to communicate product value.                        | Develop positioning and key narratives for customers.          | % of assets aligned to current messaging framework.      |
+| Go-to-Market: Market & Sell | Marketing               | Develop campaigns to generate qualified leads.                        | Plan and run campaigns to drive pipeline.                      | # of MQLs (vs. target).                                  |
+| Go-to-Market: Market & Sell | Marketing               | Track market trends to adjust positioning.                            | Monitor industry shifts and competitors for insights.          | Trend analysis completed in last 6 months.               |
+| Go-to-Market: Market & Sell | Sales                   | Define sales vision to drive revenue growth.                          | Establish long-term direction for sales approach.              | Sales strategy documented and updated.                   |
+| Go-to-Market: Market & Sell | Sales                   | Identify potential accounts that match the ideal customer profile.    | Source leads/accounts that fit ICP.                            | % of opportunities matching ICP.                         |
+| Go-to-Market: Market & Sell | Sales                   | Engage prospects to assess fit and requirements.                      | Qualify prospects through discovery.                           | % of opportunities progressing to proposal.              |
+| Go-to-Market: Market & Sell | Sales                   | Develop proposals that align with customer goals.                     | Build proposals showing customer-specific value.               | Win rate of submitted proposals.                         |
+| Go-to-Market: Market & Sell | Sales                   | Negotiate agreements to formalize customer relationships.             | Close deals through negotiation and contracting.               | % of deals closed vs. forecast.                          |
+| Implementation & Onboarding | Implementation Services | Define implementation methodology vision to ensure scalable delivery. | Establish repeatable approach for onboarding customers.        | Implementation playbook documented/reviewed annually.    |
+| Implementation & Onboarding | Implementation Services | Configure the software to align with customer workflows.              | Tailor system settings to customer operations.                 | % of configs completed within onboarding timeline.       |
+| Implementation & Onboarding | Implementation Services | Migrate customer data into the software environment.                  | Transfer legacy data into new platform.                        | % of data migration completed successfully.              |
+| Implementation & Onboarding | Implementation Services | Train customer teams to use the software in daily operations.         | Deliver training sessions and resources.                       | % of trained users vs. target.                           |
+| Implementation & Onboarding | Implementation Services | Document customer-specific workflows within the software.             | Create reference guides for client workflows.                  | % of projects with documented workflows.                 |
+| Customer Success & Growth   | Customer Success        | Define customer success vision to guide long-term adoption.           | Establish philosophy and strategy for adoption.                | CS vision documented and updated.                        |
+| Customer Success & Growth   | Customer Success        | Monitor customer usage patterns to identify adoption gaps.            | Track usage data to find underutilized features.               | % of accounts with active usage (vs. target).            |
+| Customer Success & Growth   | Customer Success        | Address customer support requests to restore expected functionality.  | Resolve tickets to restore service.                            | % tickets resolved within SLA.                           |
+| Customer Success & Growth   | Customer Success        | Gather customer feedback to inform product enhancements.              | Collect structured feedback from clients.                      | # of feedback inputs logged per quarter.                 |
+| Customer Success & Growth   | Customer Success        | Update implementation practices to improve customer outcomes.         | Refine onboarding based on lessons learned.                    | % of projects adopting updated practices.                |
+| Customer Success & Growth   | Client Management       | Define account management vision to strengthen relationships.         | Establish strategy for account engagement and growth.          | Account strategy documented and reviewed annually.       |
+| Customer Success & Growth   | Client Management       | Establish account plans to guide ongoing engagement.                  | Define specific plans for top accounts.                        | % of top accounts with current account plans.            |
+| Customer Success & Growth   | Client Management       | Conduct regular business reviews with clients.                        | Hold QBRs/ABRs with accounts.                                  | % of accounts with completed QBRs.                       |
+| Customer Success & Growth   | Client Management       | Expand client relationships to additional sites.                      | Broaden adoption into new physical locations.                  | # of multi-site expansions per year.                     |
+| Customer Success & Growth   | Client Management       | Expand client relationships to additional teams.                      | Broaden adoption into new departments.                         | # of cross-department expansions per year.               |
+| Customer Success & Growth   | Client Management       | Renew client contracts to extend partnerships.                        | Secure renewals to maintain ARR.                               | Renewal rate (%).                                        |
+| Partnerships & Ecosystem    | Partnerships            | Define partner program vision to extend reach and integrations.       | Establish long-term partner strategy.                          | Partner program strategy documented.                     |
+| Partnerships & Ecosystem    | Partnerships            | Identify potential partners to expand market reach.                   | Source new technology or channel partners.                     | # of new partners added annually.                        |
+| Partnerships & Ecosystem    | Partnerships            | Negotiate partnership agreements to formalize collaboration.          | Close formal partner agreements.                               | % of target partners signed.                             |
+| Partnerships & Ecosystem    | Partnerships            | Coordinate with partners to deliver joint value to customers.         | Align with partners to deliver solutions.                      | # of co-delivered projects/solutions.                    |
+| Partnerships & Ecosystem    | Partnerships            | Monitor partnership performance to assess mutual benefit.             | Evaluate impact of partner activity.                           | % partners meeting agreed KPIs.                          |
+| Business Enablement         | Finance & Revenue       | Define financial vision to sustain long-term growth.                  | Establish finance strategy for growth.                         | Finance strategy documented/reviewed annually.           |
+| Business Enablement         | Finance & Revenue       | Manage budgets to align spending with priorities.                     | Allocate and track budget across functions.                    | % budget variance vs. plan.                              |
+| Business Enablement         | Finance & Revenue       | Track revenue to ensure business sustainability.                      | Monitor recurring and total revenue.                           | MRR/ARR vs. target.                                      |
+| Business Enablement         | Finance & Revenue       | Track costs to identify areas for optimization.                       | Monitor OPEX and COGS.                                         | Cost variance vs. budget.                                |
+| Business Enablement         | Finance & Revenue       | Collect customer payments to sustain cash flow.                       | Ensure invoices are paid on time.                              | % invoices collected on time.                            |
+| Business Enablement         | Finance & Revenue       | Forecast financial performance to guide planning.                     | Project revenue and costs for planning.                        | Forecast accuracy (%).                                   |
+| Business Enablement         | Legal & Compliance      | Define compliance vision to maintain trust and minimize risk.         | Set compliance priorities for the business.                    | Compliance strategy documented annually.                 |
+| Business Enablement         | Legal & Compliance      | Draft contracts to define business obligations.                       | Create legal documents for customers/partners.                 | % of contracts drafted on time.                          |
+| Business Enablement         | Legal & Compliance      | Review contracts to reduce legal risk.                                | Vet third-party and customer contracts.                        | % of contracts reviewed within SLA.                      |
+| Business Enablement         | Legal & Compliance      | Ensure adherence to data protection regulations.                      | Align company processes to data standards (e.g., GDPR).        | % of audits passed.                                      |
+| Business Enablement         | Legal & Compliance      | Ensure adherence to privacy regulations.                              | Maintain privacy standards across data flows.                  | Privacy audit status (pass/fail).                        |
+| Business Enablement         | Legal & Compliance      | Maintain audit records to support compliance obligations.             | Store and manage compliance documentation.                     | % of required records current.                           |
+| Business Enablement         | Legal & Compliance      | Resolve disputes with customers.                                      | Handle customer conflicts legally.                             | # of disputes unresolved > 90 days.                      |
+| Business Enablement         | Legal & Compliance      | Resolve disputes with vendors.                                        | Handle supplier conflicts legally.                             | # of disputes unresolved > 90 days.                      |
+| Business Enablement         | Legal & Compliance      | Resolve disputes with partners.                                       | Handle partner conflicts legally.                              | # of disputes unresolved > 90 days.                      |
+| Business Enablement         | People & Talent         | Define talent and culture vision to support company growth.           | Establish HR and culture direction.                            | People strategy documented annually.                     |
+| Business Enablement         | People & Talent         | Recruit qualified candidates to fill roles.                           | Hire the right talent for open roles.                          | Time-to-fill roles vs. target.                           |
+| Business Enablement         | People & Talent         | Onboard new employees to align with workflows.                        | Orient and integrate new hires.                                | % of new hires completing onboarding.                    |
+| Business Enablement         | People & Talent         | Define performance expectations for individual roles.                 | Document clear role responsibilities.                          | % of roles with current job descriptions.                |
+| Business Enablement         | People & Talent         | Support employee development to improve skills.                       | Provide training opportunities.                                | % employees completing training programs.                |
+| Business Enablement         | People & Talent         | Support employee development to improve retention.                    | Offer growth opportunities to reduce attrition.                | Retention rate vs. benchmark.                            |
+| Business Enablement         | People & Talent         | Manage compensation to attract talent.                                | Structure pay to be competitive.                               | Compensation benchmark alignment.                        |
+| Business Enablement         | People & Talent         | Manage benefits to retain talent.                                     | Offer attractive benefits package.                             | Employee benefits satisfaction survey score.             |
+| Business Enablement         | IT & Internal Systems   | Define IT vision to support secure and scalable operations.           | Establish IT direction and priorities.                         | IT strategy documented annually.                         |
+| Business Enablement         | IT & Internal Systems   | Maintain internal technology systems to support operations.           | Ensure business systems are reliable.                          | % uptime of internal systems.                            |
+| Business Enablement         | IT & Internal Systems   | Provide secure access to company data.                                | Ensure only authorized access to data.                         | # of access breaches per quarter.                        |
+| Business Enablement         | IT & Internal Systems   | Provide secure access to company applications.                        | Ensure only authorized access to apps.                         | # of unauthorized access attempts.                       |
+| Business Enablement         | IT & Internal Systems   | Resolve internal IT issues to restore expected functionality.         | Fix internal technical problems.                               | Average IT ticket resolution time.                       |
+| Business Enablement         | IT & Internal Systems   | Integrate third-party tools into business workflows.                  | Connect SaaS tools used internally.                            | % integrations completed on time.                        |
+| Business Enablement         | Data & Analytics        | Define analytics vision to enable data-driven decision-making.        | Establish long-term goals for data use.                        | Analytics strategy documented annually.                  |
+| Business Enablement         | Data & Analytics        | Collect business performance data across functions.                   | Gather data from systems and departments.                      | % of functions with data feeds integrated.               |
+| Business Enablement         | Data & Analytics        | Analyze trends to identify growth opportunities.                      | Interpret data to inform strategy.                             | # of analyses delivered per quarter.                     |
+| Business Enablement         | Data & Analytics        | Build dashboards to communicate performance.                          | Create visual reports for teams.                               | % of dashboards refreshed on schedule.                   |
+| Business Enablement         | Data & Analytics        | Ensure data quality to support accurate decision-making.              | Maintain accuracy and completeness of data.                    | % data accuracy from audits.                             |
 
-How are Jobs Completed
+## How are Jobs Completed
 
 A simple way to frame this is the **RACI lens** (Responsible, Accountable, Consulted, Informed), but we can simplify it into **Ownership → Input Flow → Alignment**.
 
-## Example: **Vision & Strategy**
+Example: **Vision & Strategy**
 
 | **Activity**                                                             | **Responsible**                                                                                           | **Accountable**                                                                        | **Consulted**                                                                                                                                     | **Informed**                                                                                                 |
 | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
