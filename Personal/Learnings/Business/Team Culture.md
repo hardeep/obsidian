@@ -160,8 +160,10 @@ Approaches teamwork with candor and respect, creating an environment where issue
 - Exit **0–2s** fast — wrong hire.
 ## Startup 9-Box: Values x Cultural Competencies
 
-| **All of the Time** (Strong Culture)        | **Exit** – mis-hire; not enough time to ramp | **Keep only if role allows quick growth** – otherwise replace | **Keep / Promote** – ideal: high performer and cultural role model |
-| ------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **Some of the Time** (Inconsistent Culture) | **Exit** – not performing and not aligned    | **Exit** – cultural inconsistency slows the team              | **Replace** – “brilliant jerk,” dangerous in startup               |
-| **Never** (Culture Misfit)                  | **Exit** – clear misfit                      | **Exit** – average performer + misaligned = too costly        | **Replace** – no matter the output, culture break poisons the team |
-|                                             | Rarely Demonstrated                          | Sometimes Demonstrated                                        | Consistently Demonstrated                                          |
+| Values                                     |                                              |                                                               |                                                               |
+| ------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| **All of the Time** (Strong Values)        | **Exit** – right values but can’t do the job | **Keep only if role allows quick growth** – otherwise replace | **Keep / Promote** – ideal: strong values and high competency |
+| **Some of the Time** (Inconsistent Values) | **Exit** – not delivering and not aligned    | **Exit** – cultural inconsistency outweighs competence        | **Replace** – competent but values inconsistency is corrosive |
+| **Never** (Values Misfit)                  | **Exit** – clear misfit                      | **Exit** – even if competent, not aligned                     | **Replace** – “brilliant jerk,” strong at role but toxic      |
+|                                            | **Low Competency**                           | **Medium Competency**                                         | **High Competency**                                           |
+|                                            |                                              | **Competencies**                                              |                                                               |
