@@ -79,3 +79,13 @@
 | Business Enablement         | Data & Analytics        | Analyze trends to identify growth opportunities.                      |
 | Business Enablement         | Data & Analytics        | Build dashboards to communicate performance.                          |
 | Business Enablement         | Data & Analytics        | Ensure data quality to support accurate decision-making.              |
+
+How are Jobs Completed
+
+A simple way to frame this is the **RACI lens** (Responsible, Accountable, Consulted, Informed), but we can simplify it into **Ownership → Input Flow → Alignment**.
+
+## Example: **Vision & Strategy**
+
+| **Activity**                                                             | **Responsible**                                                                                           | **Accountable**                                                                        | **Consulted**                                                                                                                                     | **Informed**                                                                                                 |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Set organizational priorities and allocate resources (Vision & Strategy) | **Executive Leadership** (CEO, CTO, CPO) — draft the strategy, define goals, propose resource allocation. | **CEO** (or Board, if applicable) — final approval and ownership of company direction. | **Senior Management** (Engineering Director, Product Director, Sales Lead, Finance Lead) — provide input on feasibility, market signals, budgets. | **All employees** — kept updated on vision, strategy, and priorities via all-hands, internal comms, or OKRs. |
