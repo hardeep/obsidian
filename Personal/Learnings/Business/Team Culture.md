@@ -1,3 +1,15 @@
+### High Performing Team
+### Values
+- **What it is:** The _beliefs or principles_ the company stands for, the “north star.”
+- **Nature:** Abstract, timeless, and non-negotiable.
+### Cultural Competencies
+- **What it is:** The _specific, observable behaviours that show how someone approaches work in line with your company’s culture.
+- **Nature:** Action-oriented and measurable (Yes/No, All of the Time vs. Some of the Time).
+### Performance
+- **What it is:** How well someone delivers on their role’s outputs and responsibilities.
+- **Nature:** Outcome-oriented (KPIs, goals, business results).
+
+Values -> Cultural Competencies -> Performance
 ## Values
 
 - **Grit:** We chase our long-term goals with passion and perseverance. We see every challenge as an opportunity to excel and grow.
@@ -161,7 +173,17 @@ Approaches teamwork with candor and respect, creating an environment where issue
 - Only hire or keep **6–7s**.
 - Move quickly on **3–5s** if they don’t level up almost immediately.
 - Exit **0–2s** fast — wrong hire.
-## Startup 9-Box: Values x Cultural Competencies
+## How They Fit Together
+
+- **Values = the why**
+    - Ex: _Adaptability – change is our only constant._
+- **Cultural Competencies = the how**
+    - Ex: _Adjusts approach when conditions shift; shares lessons learned with others._
+- **Performance = the what**
+    - Ex: _Delivered 3 successful customer onboardings this quarter with no delays._
+## Measuring Effectiveness 
+
+### Startup 9-Box: Values x Cultural Competencies
 
 | Values                                     |                                              |                                                               |                                                               |
 | ------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
