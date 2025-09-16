@@ -124,3 +124,5 @@ Approaches teamwork with candor and respect, creating an environment where issue
 - They shut down dissent or opposing views.
 - They withhold feedback out of fear or politics.
 - They create tension or fear that slows others down.
+
+
