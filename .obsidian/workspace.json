@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
+                "file": "Personal/Learnings/Business/Team Culture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atomic Jobs of A Software Startup"
+              "title": "Team Culture"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "2c4311373e6743b3",
   "lastOpenFiles": [
-    "Personal/Learnings/Business/Building Product.md",
     "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
+    "Personal/Learnings/Business/Team Culture.md",
+    "Personal/Learnings/Business/Building Product.md",
     "Untitled 1.base",
     "Untitled.base",
     "Start.md",
@@ -233,7 +234,6 @@
     "Daily/2025-05-09.md",
     "Daily/2025-05-03.md",
     "image.jpg",
-    "Work/Puro.md",
     "Work/Writing",
     "Work",
     "Personal/Lists/Prompt Library",
