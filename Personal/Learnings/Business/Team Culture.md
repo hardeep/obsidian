@@ -34,7 +34,7 @@ Approaches decisions through the lens of the customer’s jobs-to-be-done — en
 - They say “no” without explaining it in terms of customer outcomes.
 - They build solutions for one-off customers that increase complexity for everyone.
 ---
-### 3. Innovation Mindset (Plain-Language, Approach-Based)
+### 3. Innovation Mindset
 
 Approaches recurring problems as opportunities to design simpler, faster, higher-quality ways of working, testing ideas in practice rather than theory.
 
@@ -53,7 +53,7 @@ Approaches recurring problems as opportunities to design simpler, faster, higher
 - They avoid experimenting because they fear mistakes.
 - They focus on theory or brainstorming without testing in reality.
 ---
-### 4. Systems Thinking (Plain-Language, Approach-Based)
+### 4. Systems Thinking
 
 Approaches problems by looking beyond the immediate issue, connecting causes and effects, and considering ripple effects — with the goal of reducing complexity and increasing speed and quality.
 
@@ -71,7 +71,7 @@ Approaches problems by looking beyond the immediate issue, connecting causes and
 - They add steps or controls that slow down delivery instead of solving upstream.
 - They rarely ask “why” more than once.
 ---
-### 5. Technical Mastery (Plain-Language, Approach-Based)
+### 5. Technical Mastery
 
 Approaches their craft by striving for deep expertise and the highest standards — pushing themselves and others toward excellence in delivery and innovation.
 
