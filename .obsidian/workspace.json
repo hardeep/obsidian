@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Start"
             }
+          },
+          {
+            "id": "552c13edfdae2d20",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -202,11 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "552c13edfdae2d20",
   "lastOpenFiles": [
+    "Start.md",
     "Daily/2025-08-19.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
-    "Start.md",
     "Personal/Learnings/Business/Building a Brand.md",
     "Daily/2025-07-25.md",
     "Work/Business Building/Effective Board Updates.md",
