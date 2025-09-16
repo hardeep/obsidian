@@ -1,3 +1,7 @@
+## Values
+
+
+## Performance
 ### 1. Urgency
 
 Approaches work with a strong bias for action, moving quickly to deliver, test, and learn — ensuring speed doesn’t come at the cost of quality.
@@ -124,5 +128,24 @@ Approaches teamwork with candor and respect, creating an environment where issue
 - They shut down dissent or opposing views.
 - They withhold feedback out of fear or politics.
 - They create tension or fear that slows others down.
-
+---
+## Cultural Competencies On the 9-Box (0–7)
+- **0–2 = Never**  
+    Rarely demonstrates cultural competencies; clear misfit.
+- **3–5 = Some of the Time**  
+    Inconsistent; mixes Yes and No behaviours, not reliable under pressure.
+- **6–7 = All of the Time**  
+    Consistently demonstrates cultural competencies as their natural way of working; reliable culture fit.
+### Why these bands work
+- **0–2:** Too few to be workable in a startup. If someone demonstrates <3 out of 7 cultural behaviors, they’ll constantly create friction.
+- **3–5:** They show flashes, but not enough consistency to be trusted with scale. This is the danger zone where people can look “okay” but drag the org over time.
+- **6–7:** This is the bar — culture is only strong if it’s lived all the time.
+### Example
+- Candidate A: Scores 6 (all but Technical Mastery). → **All of the Time**
+- Candidate B: Scores 4 (Urgency, Customer Orientation, Trust, but fails on Systems Thinking, Adaptability, Innovation). → **Some of the Time**
+- Candidate C: Scores 1 (only Trust). → **Never**
+### Startup Application
+- Only hire or keep **6–7s**.
+- Move quickly on **3–5s** if they don’t level up almost immediately.
+- Exit **0–2s** fast — wrong hire.
 
