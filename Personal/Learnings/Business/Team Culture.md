@@ -1,7 +1,17 @@
 ## Values
 
 
-## Performance
+## Cultural Competencies
+
+**Cultural Competencies** are the _specific, observable patterns of behaviour_ that demonstrate how individuals embody a company’s culture in practice.
+
+They sit between **values** (the company’s guiding principles) and **performance** (the results someone delivers). While values are abstract and performance is outcome-based, cultural competencies are **behaviour-based** — they describe _how people approach their work, interact with others, and make decisions_ in ways that reinforce or undermine the desired culture.
+
+In the abstract sense:
+
+- They are **context-agnostic** (relevant across roles and functions).
+- They are **timeless** (should matter today, tomorrow, and at scale).
+- They are **binary-observable** (you can point to whether someone did or didn’t demonstrate them, without relying on feelings).
 ### 1. Urgency
 
 Approaches work with a strong bias for action, moving quickly to deliver, test, and learn — ensuring speed doesn’t come at the cost of quality.
@@ -148,4 +158,10 @@ Approaches teamwork with candor and respect, creating an environment where issue
 - Only hire or keep **6–7s**.
 - Move quickly on **3–5s** if they don’t level up almost immediately.
 - Exit **0–2s** fast — wrong hire.
+## Startup 9-Box: Values x Cultural Competencies
 
+| **All of the Time** (Strong Culture)        | **Exit** – mis-hire; not enough time to ramp | **Keep only if role allows quick growth** – otherwise replace | **Keep / Promote** – ideal: high performer and cultural role model |
+| ------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Some of the Time** (Inconsistent Culture) | **Exit** – not performing and not aligned    | **Exit** – cultural inconsistency slows the team              | **Replace** – “brilliant jerk,” dangerous in startup               |
+| **Never** (Culture Misfit)                  | **Exit** – clear misfit                      | **Exit** – average performer + misaligned = too costly        | **Replace** – no matter the output, culture break poisons the team |
+|                                             | Rarely Demonstrated                          | Sometimes Demonstrated                                        | Consistently Demonstrated                                          |
