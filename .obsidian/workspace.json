@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "324b54445a5e90df",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "2c4311373e6743b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
-            }
-          },
-          {
-            "id": "552c13edfdae2d20",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "Atomic Jobs of A Software Startup"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,13 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "68a83c9bc5b5a566",
@@ -216,9 +201,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "552c13edfdae2d20",
+  "active": "2c4311373e6743b3",
   "lastOpenFiles": [
+    "Untitled 1.base",
+    "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
+    "Untitled.base",
     "Start.md",
+    "Personal/Lists/San Francisco.md",
+    "Pasted image 20250915220436.png",
     "Daily/2025-08-19.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Personal/Learnings/Business/Building a Brand.md",
@@ -243,9 +233,6 @@
     "Daily/2025-05-03.md",
     "image.jpg",
     "Work/Puro.md",
-    "Work/Medcan.md",
-    "Personal/Lists/Prompt Library/Youtube Learning.md",
-    "Personal/Lists/Business Ideas.md",
     "Work/Writing",
     "Work",
     "Personal/Lists/Prompt Library",
@@ -254,8 +241,6 @@
     "attachments",
     "Personal/Planning",
     "Personal/Gaming",
-    "Personal/Lists",
-    "Personal/Projects/Software/AI",
     "Personal/Memories/Attachments/IMG_9166.webp",
     "Personal/Memories/Attachments/IMG_9167.jpeg",
     "Personal/Projects/Chair Project/Attachments/Havsten.png"
