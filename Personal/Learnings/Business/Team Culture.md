@@ -1,6 +1,8 @@
 ## Values
 
-
+- **Grit:** We chase our long-term goals with passion and perseverance. We see every challenge as an opportunity to excel and grow.
+- **Resourcefulness:** Innovation isn't just about having resources; it's about being ingenious with what we have. We think on our feet and turn challenges into victories.
+- **Adaptability:** Change is our only constant. We thrive by staying flexible and open to new ideas, ensuring that we're always ahead of the curve.
 ## Cultural Competencies
 
 **Cultural Competencies** are the _specific, observable patterns of behaviour_ that demonstrate how individuals embody a company’s culture in practice.
@@ -140,6 +142,7 @@ Approaches teamwork with candor and respect, creating an environment where issue
 - They create tension or fear that slows others down.
 ---
 ## Cultural Competencies On the 9-Box (0–7)
+### How to Measure
 - **0–2 = Never**  
     Rarely demonstrates cultural competencies; clear misfit.
 - **3–5 = Some of the Time**  

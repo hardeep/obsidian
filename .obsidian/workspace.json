@@ -153,17 +153,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025-07-13.md",
+                "file": "Personal/Learnings/Business/Team Culture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-13"
+              "title": "Outline of Team Culture"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "a3673e1d9486cbd3",
@@ -184,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c4311373e6743b3",
+  "active": "2ddf33bd8aa5067e",
   "lastOpenFiles": [
     "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
     "Personal/Learnings/Business/Team Culture.md",
