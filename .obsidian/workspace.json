@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Learnings/Business/Team Culture.md",
+                "file": "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Team Culture"
+              "title": "Atomic Jobs of A Software Startup"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Learnings/Business/Team Culture.md",
+                "file": "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Team Culture"
+              "title": "Outline of Atomic Jobs of A Software Startup"
             }
           }
         ],
@@ -202,10 +202,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Start.md",
-    "Personal/Learnings/Business/Team Culture.md",
-    "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
     "Personal/Learnings/Business/Building Product.md",
+    "Personal/Learnings/Business/Team Culture.md",
+    "Start.md",
+    "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
     "Untitled 1.base",
     "Untitled.base",
     "Personal/Lists/San Francisco.md",
