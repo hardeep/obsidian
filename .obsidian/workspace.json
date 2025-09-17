@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "324b54445a5e90df",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "2c4311373e6743b3",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Learnings/Business/Team Culture.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Team Culture"
+              "title": "Start"
             }
           }
         ]
@@ -153,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Learnings/Business/Team Culture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Team Culture"
+              "title": "Outline"
             }
           }
         ],
@@ -200,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ddf33bd8aa5067e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
     "Personal/Learnings/Business/Team Culture.md",
+    "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
     "Personal/Learnings/Business/Building Product.md",
     "Untitled 1.base",
     "Untitled.base",
