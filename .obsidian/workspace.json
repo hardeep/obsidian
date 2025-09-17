@@ -153,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Start.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Start"
             }
           }
         ],
