@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "Thoughts After Yesterday's Board Meeting"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "board",
+                "query": "board go to market",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start.md",
+                "file": "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Start"
+              "title": "Outline of Thoughts After Yesterday's Board Meeting"
             }
           }
         ],
@@ -202,10 +202,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Work/Business Building/Effective Board Updates.md",
+    "Start.md",
     "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
     "Personal/Learnings/Business/Building Product.md",
     "Personal/Learnings/Business/Team Culture.md",
-    "Start.md",
     "Untitled 1.base",
     "Untitled.base",
     "Personal/Lists/San Francisco.md",
@@ -214,7 +215,6 @@
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Personal/Learnings/Business/Building a Brand.md",
     "Daily/2025-07-25.md",
-    "Work/Business Building/Effective Board Updates.md",
     "Daily/2025-07-21.md",
     "Daily/2025-07-16.md",
     "Daily/2025-07-13.md",
