@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thoughts After Yesterday's Board Meeting"
+              "title": "Start"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
+                "file": "Start.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Thoughts After Yesterday's Board Meeting"
+              "title": "Outline of Start"
             }
           }
         ],
@@ -202,6 +202,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Work/Business Building/Effective Board Updates.md",
     "Start.md",
     "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
@@ -212,7 +213,6 @@
     "Personal/Lists/San Francisco.md",
     "Pasted image 20250915220436.png",
     "Daily/2025-08-19.md",
-    "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Personal/Learnings/Business/Building a Brand.md",
     "Daily/2025-07-25.md",
     "Daily/2025-07-21.md",
