@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atomic Jobs of A Software Startup"
+              "title": "Start"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
+                "file": "Start.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Atomic Jobs of A Software Startup"
+              "title": "Outline of Start"
             }
           }
         ],
@@ -203,11 +203,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Personal/Learnings/Business/Jobs to Be Done.md",
     "Start.md",
+    "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
+    "Personal/Learnings/Business/Jobs to Be Done.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Work/Business Building/Effective Board Updates.md",
-    "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
     "Personal/Learnings/Business/Building Product.md",
     "Personal/Learnings/Business/Team Culture.md",
     "Untitled 1.base",
