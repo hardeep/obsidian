@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Daily/2025-09-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "2025-09-28"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start.md",
+                "file": "Daily/2025-09-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Start"
+              "title": "Outline of 2025-09-28"
             }
           }
         ],
@@ -204,6 +204,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Start.md",
+    "Daily/2025-09-28.md",
     "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
     "Personal/Learnings/Business/Jobs to Be Done.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
@@ -232,7 +233,6 @@
     "Daily/2025-05-16.md",
     "Daily/2025-05-14.md",
     "Daily/2025-05-13.md",
-    "Daily/2025-05-09.md",
     "image.jpg",
     "Work/Writing",
     "Work",
