@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Business Building/Untitled.md",
-                "mode": "source",
+                "file": "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Atomic Jobs of A Software Startup"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "68a83c9bc5b5a566",
@@ -154,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Business Building/Untitled.md",
+                "file": "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Atomic Jobs of A Software Startup"
             }
           }
         ],
@@ -204,8 +203,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Start.md",
     "Work/Business Building/Untitled.md",
+    "Start.md",
     "Daily/2025-09-28.md",
     "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
     "Personal/Learnings/Business/Jobs to Be Done.md",
