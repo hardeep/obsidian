@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Work/Business Building/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "Untitled"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start.md",
+                "file": "Work/Business Building/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Start"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,8 +204,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Daily/2025-09-28.md",
     "Start.md",
+    "Work/Business Building/Untitled.md",
+    "Daily/2025-09-28.md",
     "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
     "Personal/Learnings/Business/Jobs to Be Done.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
@@ -232,7 +234,6 @@
     "Work/Business Building",
     "Daily/2025-05-16.md",
     "Daily/2025-05-14.md",
-    "Daily/2025-05-13.md",
     "image.jpg",
     "Work/Writing",
     "Work",
