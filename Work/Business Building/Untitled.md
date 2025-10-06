@@ -1,4 +1,6 @@
 
+Our company partners with manufacturing teams to drive meaningful innovation through digital transformation. We develop intuitive software tailored to core functions, provide expert change management guidance, proactively anticipate clients' needs, and strategically leverage AI for life-improving products and services. By focusing on customer experience and collaboration, we empower our clients to differentiate themselves in the market while making a positive impact on people's lives.
+
 Customer Journey / Experience
 Customer Journey / Experience -> Customer Growth
 Customer Journey / Experience -> Customer Growth -> Impact Delivery
