@@ -23,4 +23,23 @@ We've worked with over 200 companies -> actively working with 150. Lots of site 
 
 Over 50 are no longer in business. 
 
-Most had no return on their business for their share
+Most had no return on their business for their shareholders
+
+Margins -> Leverage
+
+(Atlantic Cultivation)
+
+**10 types Innovation**
+
+Profit Model                  | How you make money
+Network                         | How you connect with others (gtm)
+Structure                       | Organize / align your talent
+Process.                         | How you use superior methods
+Product Performance   | How you develop distinguising features or functionality 
+Product System            | How you bundle products and services
+Service                            | How you amplify the value of your offering
+Channel                          | How you deliver your offering
+Brand                               | How you represent your self
+Customer Engagement | How you foster interactions
+
+How 
