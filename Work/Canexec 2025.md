@@ -5,4 +5,4 @@ Fez Rismani
 
 Rolland-Pierre Chalifoux
 
-Fabrizio Rossi Coca Cola/Pepsi/
+Fabrizio Rossi Coca Cola/Pepsi/Pharma/Harvest One
