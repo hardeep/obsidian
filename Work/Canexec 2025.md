@@ -42,4 +42,11 @@ Channel                          | How you deliver your offering
 Brand                               | How you represent your self
 Customer Engagement | How you foster interactions
 
-How 
+How do you think about innovation?
+
+Roey      **Network** (network of suppliers / balance / international markets)
+Fabrizio **Structure** (Pepsi / Coca Cola)
+Fez      **. Brand**     (AI)
+Roland **Process**  (How do you think about the business / dairy interesting market / 4 generations / what are some lessons from dairy?)
+
+M&A is an inevitable reality | innovation connected to strategy is where you find the margins
