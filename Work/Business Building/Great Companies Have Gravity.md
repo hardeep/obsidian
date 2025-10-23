@@ -6,6 +6,5 @@ Great companies are the same.
 
 They have gravity because of what they’ve built — the quality of their product, the clarity of their story, the depth of their culture.
 
-  
+## The Layers of Company Gravity
 
-The Layers of Company Gravity
