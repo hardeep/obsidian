@@ -15,3 +15,4 @@ They have gravity because of what they’ve built — the quality of their produ
 | Cultural Gravity | Talent wants to work there; alumni carry the ethos with them. | Pixar, SpaceX, IDEO                         |
 | Network Gravity  | The ecosystem makes it hard to leave.                         | Microsoft, Shopify, Amazon                  |
 | Purpose Gravity  | A mission that aligns hearts and action.                      | Patagonia, OpenAI, Elevation-style founders |
+
