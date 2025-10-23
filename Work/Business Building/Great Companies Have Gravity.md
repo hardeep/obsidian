@@ -22,4 +22,4 @@ They have gravity because of what they’ve built — the quality of their produ
 | Join   | Pieces begin to hold together. A small team forms, simple systems take shape, and the business starts to produce consistent results.                                               | $1M -$5M               |
 | Shape  | The world finds its center. Roles are defined, delivery becomes reliable, and leadership starts to emerge. The organization gains structure and rhythm.                            | $5M -$20M              |
 | Settle | The environment stabilizes. Departments develop, scale builds across products or markets, and leaders shift from day-to-day operations to strategy.                                | $20M - $75M            |
-| Thrive | A mature world — high-performing, balanced, and self-sustaining. The company operates at scale with strong systems, accountability, and enduring culture.                          | $75M -$200M+           |
+| Thrive | A mature world. high-performing, balanced, and self-sustaining. The company operates at scale with strong systems, accountability, and enduring culture.                           | $75M -$200M+           |
