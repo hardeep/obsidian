@@ -1,10 +1,6 @@
 Gravity is what holds a planet together — and what draws others toward it.
 
-It doesn’t shout. It doesn’t chase.
-
-It simply is, because it has mass — substance, consistency, and pull.
-
-  
+It has mass — substance, consistency, and pull.
 
 Great companies are the same.
 
