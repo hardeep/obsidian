@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Work/Canexec 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
-            }
-          },
-          {
-            "id": "d47d796a83f0341d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Canexec 2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,9 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d47d796a83f0341d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Start.md",
+    "Work/Business Building/Great Companies Have Gravity.md",
     "Work/Canexec 2025.md",
     "Personal/Lists/Gift Ideas.md",
     "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
@@ -244,7 +232,6 @@
     "Personal/Lists/Restaurants.md",
     "Untitled.md",
     "Daily/2025-05-27.md",
-    "Daily/2025-05-21.md",
     "Work/Business Building",
     "image.jpg",
     "Work/Writing",
