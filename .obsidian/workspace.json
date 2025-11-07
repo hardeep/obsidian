@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "Thoughts After Yesterday's Board Meeting"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "board go to market",
+                "query": "board",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,8 +204,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Work/Canexec 2025.md",
     "Start.md",
+    "Work/Canexec 2025.md",
     "Work/Business Building/Great Companies Have Gravity.md",
     "Personal/Lists/Gift Ideas.md",
     "Personal/Learnings/Business/Atomic Jobs of A Software Startup.md",
