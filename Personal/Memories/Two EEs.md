@@ -27,3 +27,4 @@ Justin employs a variety of methods including crop rotation, cover cropping, app
 Pest control targets animal pests (including insects), fungi, weeds and disease. Organic pest control involves the cumulative effect of many techniques, including, allowing for an acceptable level of pest damage, encouraging or even introducing beneficial organisms, careful crop selection and crop rotation, and mechanical controls such as row covers and traps. These techniques generally provide benefits in addition to pest control—soil protection and improvement, fertilization, pollination, water conservation, season extension, etc.—and these benefits are complementary in overall effect on farm health . Effective organic pest control requires a thorough understanding of pest life cycles and interactions. Weeds are controlled by hand, and through the use of cover crops and mulches.  
   
 
+https://globalnews.ca/video/4620190/longtime-customers-say-goobye-to-surreys-two-ees-farm-market
