@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Memories/Gobi The Dinosaur.md",
+                "file": "Personal/Memories/Two EEs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gobi The Dinosaur"
+              "title": "Two EEs"
             }
           }
         ]
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "ab17991f1241ab04",
@@ -168,6 +168,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Personal/Memories/Gobi The Dinosaur.md",
+    "Personal/Memories/Two EEs.md",
     "Start.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Work/Business Building/Great Companies Have Gravity.md",
@@ -196,8 +198,6 @@
     "Daily/2025-05-21.md",
     "Daily/2025-05-14.md",
     "Work/Business Building",
-    "Daily/2025-05-16.md",
-    "Daily/2025-05-13.md",
     "image.jpg"
   ]
 }
