@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thoughts After Yesterday's Board Meeting"
+              "title": "Start"
+            }
+          },
+          {
+            "id": "93dacf3a91feadef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,8 +215,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "93dacf3a91feadef",
   "lastOpenFiles": [
+    "Personal/Memories/Two EEs.md",
     "Start.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Work/Canexec 2025.md",
@@ -232,7 +246,6 @@
     "Daily/2025-04-28.md",
     "Personal/Lists/Restaurants.md",
     "Untitled.md",
-    "Daily/2025-05-27.md",
     "Work/Business Building",
     "image.jpg",
     "Work/Writing",
