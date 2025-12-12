@@ -30,21 +30,8 @@
               "icon": "lucide-file",
               "title": "Start"
             }
-          },
-          {
-            "id": "93dacf3a91feadef",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93dacf3a91feadef",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Personal/Memories/Two EEs.md",
     "Start.md",
