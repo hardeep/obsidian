@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Personal/Lists/Weather Tracking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "Weather Tracking"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start.md",
+                "file": "Personal/Lists/Weather Tracking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Start"
+              "title": "Outline of Weather Tracking"
             }
           }
         ],
@@ -202,12 +202,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Start.md",
     "Personal/Lists/Weather Tracking.md",
     "Personal/Space Hacking/Working with GOES-16 Satellite Data.md",
     "Personal/Hardware Hacking/Klipper Ender 5.md",
     "Personal/Space Hacking",
     "Personal/Space Hacking.md",
-    "Start.md",
     "Personal/Lists/Prompt Library/Fred Rogers Framework.md",
     "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
     "Personal/Lists/Vancouver.md",
