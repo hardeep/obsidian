@@ -1,8 +1,6 @@
 Perfect — here’s a **clean, repeatable guide** you can keep and reuse. This matches *exactly* what worked for you and avoids the common Klipper Z-offset traps.
 
----
-
-# Klipper Z Offset Calibration (CR Touch / BLTouch)
+## Klipper Z Offset Calibration (CR Touch / BLTouch)
 
 **Ender 5–style workflow with final micro-adjustments**
 
@@ -16,10 +14,11 @@ This method uses **`PROBE_CALIBRATE` for the coarse offset** and then **applies 
 * Probe deploys and triggers reliably
 * `[stepper_z]` uses:
 
-  ```ini
+```ini
   endstop_pin: probe:z_virtual_endstop
   position_min: -5
-  ```
+```
+
 * `[safe_z_home]` is configured
 
 ---
