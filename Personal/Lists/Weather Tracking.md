@@ -1,0 +1,11 @@
+
+
+https://weather.com/weather/radar/interactive/l/04e990dc9abfeed6313122c968019b2f994aaeef66b02bfeefeea8f74c0616cc
+
+https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOm51bGwsImNlbnRlciI6Wy0xMjIuMDk3LDM3Ljc0MV0sImxvY2F0aW9uIjpudWxsLCJ6b29tIjo5Ljg4NTAwMDAwMDAwMDAwNX0sImFuaW1hdGluZyI6ZmFsc2UsImJhc2UiOiJzdGFuZGFyZCIsImFydGNjIjpmYWxzZSwiY291bnR5IjpmYWxzZSwiY3dhIjpmYWxzZSwicmZjIjpmYWxzZSwic3RhdGUiOmZhbHNlLCJtZW51Ijp0cnVlLCJzaG9ydEZ1c2VkT25seSI6ZmFsc2UsIm9wYWNpdHkiOnsiYWxlcnRzIjowLjgsImxvY2FsIjowLjYsImxvY2FsU3RhdGlvbnMiOjAuOCwibmF0aW9uYWwiOjAuNn19
+
+https://zoom.earth/maps/radar/#view=37.921494,-122.784901,10.52z/date=2026-01-01,10:35,-8
+
+Observing Fog Patterns
+https://fog.today
+https://zoom.earth/places/united-states/san-francisco/

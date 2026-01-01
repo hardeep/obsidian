@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Space Hacking/Working with GOES-16 Satellite Data.md",
+                "file": "Personal/Lists/Weather Tracking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Working with GOES-16 Satellite Data"
+              "title": "Weather Tracking"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Space Hacking/Working with GOES-16 Satellite Data.md",
+                "file": "Personal/Lists/Weather Tracking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Working with GOES-16 Satellite Data"
+              "title": "Outline of Weather Tracking"
             }
           }
         ],
@@ -202,8 +202,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Personal/Hardware Hacking/Klipper Ender 5.md",
     "Personal/Space Hacking/Working with GOES-16 Satellite Data.md",
+    "Personal/Lists/Weather Tracking.md",
+    "Personal/Hardware Hacking/Klipper Ender 5.md",
     "Personal/Space Hacking",
     "Personal/Space Hacking.md",
     "Start.md",
@@ -231,7 +232,6 @@
     "Daily/2025-07-25.md",
     "Daily/2025-07-21.md",
     "Daily/2025-07-16.md",
-    "Daily/2025-07-13.md",
     "Work/Business Building",
     "image.jpg",
     "Work/Writing",
