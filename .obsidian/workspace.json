@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "board",
+                "query": "prompt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +203,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Personal/Lists/Prompt Library/Fred Rogers Framework.md",
+    "Personal/Lists/Prompt Library/Jobs-to-Be-Done.md",
     "Start.md",
+    "Personal/Lists/Vancouver.md",
     "Personal/Memories/Two EEs.md",
     "Work/Writing/Thoughts After Yesterday's Board Meeting.md",
     "Work/Canexec 2025.md",
@@ -230,9 +232,6 @@
     "Personal/Lists/Tabs.md",
     "Ideas for Elevated Signals.md",
     "Daily/2025-04-29.md",
-    "Daily/2025-04-28.md",
-    "Personal/Lists/Restaurants.md",
-    "Untitled.md",
     "Work/Business Building",
     "image.jpg",
     "Work/Writing",
