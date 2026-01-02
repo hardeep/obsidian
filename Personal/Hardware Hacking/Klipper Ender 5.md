@@ -188,11 +188,9 @@ SET_GCODE_OFFSET Z=0.46 MOVE=1
 Z_OFFSET_APPLY_PROBE
 SAVE_CONFIG
 ```
-
----
-
-If you want, I can:
-
-* Turn this into a printable checklist
-* Add a **PLA vs PETG bias note**
-* Or help you fold this cleanly into your personal Klipper setup notes
+G28
+M140 S60
+M190 S60
+M104 S200
+M109 S200
+BED_MESH_CALIBRATE
