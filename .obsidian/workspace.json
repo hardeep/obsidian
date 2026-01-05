@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Lists/Weather Tracking.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weather Tracking"
+              "title": "Start"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Lists/Weather Tracking.md",
+                "file": "Start.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Weather Tracking"
+              "title": "Outline of Start"
             }
           }
         ],
@@ -202,8 +202,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Start.md",
     "Personal/Lists/Weather Tracking.md",
+    "Start.md",
     "Personal/Space Hacking/Working with GOES-16 Satellite Data.md",
     "Personal/Hardware Hacking/Klipper Ender 5.md",
     "Personal/Space Hacking",
