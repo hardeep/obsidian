@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Start"
             }
-          },
-          {
-            "id": "64f5dd24c54b7600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finding a Career.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Finding a Career"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finding a Career.md",
+                "file": "Start.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Finding a Career"
+              "title": "Outline of Start"
             }
           }
         ],
@@ -227,10 +202,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64f5dd24c54b7600",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Start.md",
     "Finding a Career.md",
+    "Work/Worklog.md",
+    "Work/Ideas for Elevated Signals.md",
+    "Personal/Writings/Algorithmic Curation.md",
+    "Personal/Writings",
+    "Personal/Learnings/Finding a Career.md",
+    "Start.md",
     "Personal/3D Printing/ender-5-printer.cfg",
     "Personal/3D Printing",
     "Personal/Lists/Weather Tracking.md",
@@ -257,17 +237,12 @@
     "Untitled.base",
     "Personal/Lists/San Francisco.md",
     "Pasted image 20250915220436.png",
-    "Daily/2025-08-19.md",
-    "Personal/Learnings/Business/Building a Brand.md",
-    "Daily/2025-07-25.md",
-    "Daily/2025-07-21.md",
     "Work/Business Building",
     "image.jpg",
     "Work/Writing",
     "Work",
     "Personal/Lists/Prompt Library",
     "attachments/Pasted image 20250225171208.png",
-    "Personal/Learnings/Marketing",
     "Personal/Memories/Attachments/IMG_9166.webp",
     "Personal/Memories/Attachments/IMG_9167.jpeg",
     "Personal/Projects/Chair Project/Attachments/Havsten.png"
