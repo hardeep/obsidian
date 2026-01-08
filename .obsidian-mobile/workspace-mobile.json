@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Hardware Hacking/Klipper Ender 5.md",
-                "mode": "source",
+                "file": "Start.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Klipper Ender 5"
+              "title": "Start"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Start.md",
     "Personal/Hardware Hacking/Klipper Ender 5.md",
+    "Start.md",
     "Personal/Space Hacking/Working with GOES-16 Satellite Data.md",
     "Personal/Space Hacking",
     "Personal/Lists/Weather Tracking.md",
