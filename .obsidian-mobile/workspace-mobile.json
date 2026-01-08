@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Personal/Worklog.md",
-                "mode": "source",
-                "source": false
+                "file": "image.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Worklog"
+              "icon": "lucide-image",
+              "title": "image"
             }
           }
         ]
@@ -168,10 +166,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Pasted image 20250915220436.png",
+    "Work/Worklog.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Start.md",
+    "README.md",
+    "image.jpg",
+    "Work/Ideas",
+    "Personal/Ideas",
     "Personal/Writings/Algorithmic Curation.md",
     "Personal/Learnings/Learning to Learn.md",
     "Personal/Writings",
-    "Start.md",
     "Personal/Hardware Hacking/Klipper Ender 5.md",
     "Personal/Space Hacking/Working with GOES-16 Satellite Data.md",
     "Personal/Space Hacking",
@@ -183,9 +189,6 @@
     "Work/Business Building/Effective Board Updates.md",
     "Personal/Lists/Vancouver.md",
     "Work/Ideas for Elevated Signals.md",
-    "Pasted image 20250915220436.png",
-    "Untitled 1.base",
-    "Untitled.base",
     "Personal/Lists/Restaurants.md",
     "Personal/Lists/Toronto List.md",
     "Personal/Lists/San Francisco.md",
@@ -198,12 +201,7 @@
     "Daily/2025-08-19.md",
     "Personal/Lists/Business Ideas.md",
     "Personal/Learnings/Business/Building a Brand.md",
-    "Daily/2025-07-25.md",
-    "Daily/2025-07-21.md",
-    "Daily/2025-07-13.md",
     "Untitled 1",
-    "Untitled",
-    "Work/Business Building",
-    "image.jpg"
+    "Untitled"
   ]
 }
