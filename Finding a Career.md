@@ -4,11 +4,9 @@
 3. **Gemba walk:** Visit a real workplace to observe what the job actually looks like day to day, rather than relying on descriptions or opinions.
 4. **Internship placement:** Commit to a short, low-risk role to experience the work directly and gather real evidence about whether it’s worth pursuing further.
 
-  
 
 Use AI to help with each.
 
-  
 
 **SYSTEM PROMPT — Non-Interpretive Career Option Generator**
 
